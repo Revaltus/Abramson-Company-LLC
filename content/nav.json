@@ -6,23 +6,25 @@
       "children": [
         {
           "label": "Outsourced accounting",
-          "url": "/what-we-do/outsourced-accounting"
-        },
-        {
-          "label": "Bookkeeping",
-          "url": "/what-we-do/bookkeeping"
-        },
-        {
-          "label": "Payroll",
-          "url": "/what-we-do/payroll"
-        },
-        {
-          "label": "Business Tax",
-          "url": "/what-we-do/tax"
-        },
-        {
-          "label": "Audit protection",
-          "url": "/what-we-do/audit-protection"
+          "url": "/what-we-do/outsourced-accounting",
+          "children": [
+            {
+              "label": "Bookkeeping",
+              "url": "/what-we-do/outsourced-accounting/bookkeeping"
+            },
+            {
+              "label": "Payroll",
+              "url": "/what-we-do/outsourced-accounting/payroll"
+            },
+            {
+              "label": "Business Tax",
+              "url": "/what-we-do/outsourced-accounting/tax"
+            },
+            {
+              "label": "Audit protection",
+              "url": "/what-we-do/outsourced-accounting/audit-protection"
+            }
+          ]
         },
         {
           "label": "Personal income tax",
