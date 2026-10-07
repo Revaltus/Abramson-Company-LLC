@@ -59,15 +59,15 @@
       "url": "/specialties",
       "children": [
         {
-          "label": "Real estate accounting",
+          "label": "Real Estate",
           "url": "/specialties/real-estate"
         },
         {
-          "label": "Professional service provider accounting",
+          "label": "Professional Service Providers",
           "url": "/specialties/professional-service-providers"
         },
         {
-          "label": "Retail accounting",
+          "label": "Retail",
           "url": "/specialties/retail"
         },
         {
