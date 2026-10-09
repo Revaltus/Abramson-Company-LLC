@@ -22,7 +22,7 @@ old_url,new_url,status_code,reason
 /services/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Relocated via AI
 /services/tax,/services/outsourced-accounting/tax,301,Relocated via AI
 /services/entity-type-analysis,/what-we-do/business-foundation-services/entity-type-analysis,301,Relocated via AI
-/services/accounting-system-setup,/what-we-do/business-foundation-services/accounting-system-setup,301,Relocated via AI
+/services/accounting-system-setup,/what-we-do/business-foundation-services-old/accounting-system-setup,301,Relocated via AI
 /services/retirement-plan-analysis,/what-we-do/business-foundation-services-old/retirement-plan-analysis,301,Relocated via AI
 /services/audit-protection,/services/outsourced-accounting/tax/audit-protection,301,Relocated via AI
 /services/outsourced-accounting/tax/audit-protection,/what-we-do/outsourced-accounting-old/audit-protection,301,Relocated via AI
@@ -52,7 +52,7 @@ old_url,new_url,status_code,reason
 /what-we-do/tax,/what-we-do/outsourced-accounting-old/tax,301,Nested via nav editor
 /what-we-do/audit-protection,/what-we-do/outsourced-accounting-old/audit-protection,301,Nested via nav editor
 /what-we-do/entity-type-analysis,/what-we-do/business-foundation-services/entity-type-analysis,301,Nested via nav editor
-/what-we-do/accounting-system-setup,/what-we-do/business-foundation-services/accounting-system-setup,301,Nested via nav editor
+/what-we-do/accounting-system-setup,/what-we-do/business-foundation-services-old/accounting-system-setup,301,Nested via nav editor
 /what-we-do/retirement-plan-analysis,/what-we-do/business-foundation-services-old/retirement-plan-analysis,301,Nested via nav editor
 /what-we-do/outsourced-accounting/bookkeeping,/what-we-do/outsourced-accounting-old/bookkeeping,301,Relocated via AI
 /what-we-do/outsourced-accounting/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Relocated via AI
@@ -61,3 +61,4 @@ old_url,new_url,status_code,reason
 /outsourced-accounting-2,/what-we-do/outsourced-accounting,301,Nested via nav editor
 /what-we-do/outsourced-accounting-2,/what-we-do/outsourced-accounting,301,Nested via nav editor
 /what-we-do/business-foundation-services/retirement-plan-analysis,/what-we-do/business-foundation-services-old/retirement-plan-analysis,301,Relocated via AI
+/what-we-do/business-foundation-services/accounting-system-setup,/what-we-do/business-foundation-services-old/accounting-system-setup,301,Relocated via AI
