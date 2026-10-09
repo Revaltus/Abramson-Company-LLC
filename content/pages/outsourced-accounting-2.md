@@ -88,6 +88,29 @@ Audit Protection is included as part of our outsourced accounting offering, whic
 
 For Westport, Fairfield County, and tri-state area business owners, this is a layer of protection that lets you operate without constantly looking over your shoulder. You focus on your work, and we stand behind the numbers we prepare.
 
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What is outsourced accounting?**
+A: Outsourced accounting gives your business a full accounting department without hiring staff. Abramson & Company handles bookkeeping, controller-level review, and CPA oversight so you get accurate numbers you can make decisions with.
+
+**Q: How is this different from hiring a bookkeeper?**
+A: A bookkeeper enters data. Our outsourced accounting includes CPA-level review of every account, so your numbers are reliable for planning and not just for filing a return.
+
+**Q: What does the fixed monthly fee include?**
+A: Our services are bundled for a fixed monthly fee, so you know your costs up front. Outsourced accounting includes bookkeeping, payroll, tax, and audit protection, along with account reconciliation and quarterly KPI review.
+
+**Q: Can you handle payroll for my business?**
+A: Yes. We process payroll, file payroll taxes, prepare W-2 and 1099 forms, provide electronic pay access for employers and employees, and handle pension and garnishment remittance.
+
+**Q: What happens if I receive an IRS or state tax notice?**
+A: Our Audit Protection service covers IRS notice handling, state and federal representation, and appeals and litigation support, so you do not have to respond on your own.
+
+**Q: Which businesses do you work with?**
+A: We serve real estate professionals, professional service providers, retail businesses, video production companies, and not-for-profit organizations in Westport, Fairfield County, the tri-state area, and California.
+
+**Q: Can I see my financial information online?**
+A: Yes. Our secure online platform lets you share documents and collaborate with our team in real time.
 
 ---
 ## SEO & AIO Metadata
