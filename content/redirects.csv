@@ -25,7 +25,7 @@ old_url,new_url,status_code,reason
 /services/accounting-system-setup,/what-we-do/business-foundation-services/accounting-system-setup,301,Relocated via AI
 /services/retirement-plan-analysis,/what-we-do/business-foundation-services/retirement-plan-analysis,301,Relocated via AI
 /services/audit-protection,/services/outsourced-accounting/tax/audit-protection,301,Relocated via AI
-/services/outsourced-accounting/tax/audit-protection,/what-we-do/outsourced-accounting/audit-protection,301,Relocated via AI
+/services/outsourced-accounting/tax/audit-protection,/what-we-do/outsourced-accounting-old/audit-protection,301,Relocated via AI
 /services/outsourced-accounting/tax,/services/outsourced-accounting/business-tax,301,Relocated via AI
 /services/outsourced-accounting/business-tax,/services/business-tax,301,Nested via nav editor
 /services/business-tax,/what-we-do/business-tax,301,Relocated via AI
@@ -50,10 +50,11 @@ old_url,new_url,status_code,reason
 /what-we-do/bookkeeping,/what-we-do/outsourced-accounting-old/bookkeeping,301,Nested via nav editor
 /what-we-do/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Nested via nav editor
 /what-we-do/tax,/what-we-do/outsourced-accounting-old/tax,301,Nested via nav editor
-/what-we-do/audit-protection,/what-we-do/outsourced-accounting/audit-protection,301,Nested via nav editor
+/what-we-do/audit-protection,/what-we-do/outsourced-accounting-old/audit-protection,301,Nested via nav editor
 /what-we-do/entity-type-analysis,/what-we-do/business-foundation-services/entity-type-analysis,301,Nested via nav editor
 /what-we-do/accounting-system-setup,/what-we-do/business-foundation-services/accounting-system-setup,301,Nested via nav editor
 /what-we-do/retirement-plan-analysis,/what-we-do/business-foundation-services/retirement-plan-analysis,301,Nested via nav editor
 /what-we-do/outsourced-accounting/bookkeeping,/what-we-do/outsourced-accounting-old/bookkeeping,301,Relocated via AI
 /what-we-do/outsourced-accounting/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Relocated via AI
 /what-we-do/outsourced-accounting/tax,/what-we-do/outsourced-accounting-old/tax,301,Relocated via AI
+/what-we-do/outsourced-accounting/audit-protection,/what-we-do/outsourced-accounting-old/audit-protection,301,Relocated via AI
