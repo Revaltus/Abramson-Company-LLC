@@ -15,6 +15,10 @@
         {
           "label": "Business management services",
           "url": "/what-we-do/business-management-services"
+        },
+        {
+          "label": "Business Foundation Services",
+          "url": "/what-we-do/business-foundation-services"
         }
       ]
     },
@@ -79,10 +83,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Business Foundation Services 2",
-      "url": "/business-foundation-services-2"
     }
   ],
   "cta": {
