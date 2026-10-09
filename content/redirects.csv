@@ -59,3 +59,4 @@ old_url,new_url,status_code,reason
 /what-we-do/outsourced-accounting/tax,/what-we-do/outsourced-accounting-old/tax,301,Relocated via AI
 /what-we-do/outsourced-accounting/audit-protection,/what-we-do/outsourced-accounting-old/audit-protection,301,Relocated via AI
 /what-we-do/outsourced-accounting,/what-we-do/outsourced-accounting-old,301,Relocated via AI
+/outsourced-accounting-2,/what-we-do/outsourced-accounting-2,301,Nested via nav editor
