@@ -1,6 +1,6 @@
 ---
 title: "Business Foundation Services 2 | Abramson & Company LLC"
-url: "/business-foundation-services-2"
+url: "/what-we-do/business-foundation-services"
 meta_title: "Business Foundation Services in Westport, CT | Abramson & Company"
 meta_description: "Starting a business in Westport or Fairfield County? Abramson & Company CPAs help with entity type analysis, accounting system setup, and retirement plan analysis."
 target_keyword: "Westport Connecticut CPA"
