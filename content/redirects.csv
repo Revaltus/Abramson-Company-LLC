@@ -19,7 +19,7 @@ old_url,new_url,status_code,reason
 /resources/e-books/the-new-KPIs-of-business,/resources/the-new-KPIs-of-business,301,Relocated via editor
 /services/personal-income-tax,/services/tax-plus,301,Relocated via AI
 /services/bookkeeping,/what-we-do/outsourced-accounting-old/bookkeeping,301,Relocated via AI
-/services/payroll,/what-we-do/outsourced-accounting/payroll,301,Relocated via AI
+/services/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Relocated via AI
 /services/tax,/services/outsourced-accounting/tax,301,Relocated via AI
 /services/entity-type-analysis,/what-we-do/business-foundation-services/entity-type-analysis,301,Relocated via AI
 /services/accounting-system-setup,/what-we-do/business-foundation-services/accounting-system-setup,301,Relocated via AI
@@ -48,10 +48,11 @@ old_url,new_url,status_code,reason
 /resources/resource-library/refund-tracker,/resources/refund-tracker,301,Nested via nav editor
 /resources/resource-library/video-library,/resources/video-library,301,Nested via nav editor
 /what-we-do/bookkeeping,/what-we-do/outsourced-accounting-old/bookkeeping,301,Nested via nav editor
-/what-we-do/payroll,/what-we-do/outsourced-accounting/payroll,301,Nested via nav editor
+/what-we-do/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Nested via nav editor
 /what-we-do/tax,/what-we-do/outsourced-accounting/tax,301,Nested via nav editor
 /what-we-do/audit-protection,/what-we-do/outsourced-accounting/audit-protection,301,Nested via nav editor
 /what-we-do/entity-type-analysis,/what-we-do/business-foundation-services/entity-type-analysis,301,Nested via nav editor
 /what-we-do/accounting-system-setup,/what-we-do/business-foundation-services/accounting-system-setup,301,Nested via nav editor
 /what-we-do/retirement-plan-analysis,/what-we-do/business-foundation-services/retirement-plan-analysis,301,Nested via nav editor
 /what-we-do/outsourced-accounting/bookkeeping,/what-we-do/outsourced-accounting-old/bookkeeping,301,Relocated via AI
+/what-we-do/outsourced-accounting/payroll,/what-we-do/outsourced-accounting-old/payroll,301,Relocated via AI
