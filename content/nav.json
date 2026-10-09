@@ -13,24 +13,6 @@
           "url": "/what-we-do/personal-income-tax"
         },
         {
-          "label": "Business foundation services",
-          "url": "/what-we-do/business-foundation-services",
-          "children": [
-            {
-              "label": "Entity type analysis",
-              "url": "/what-we-do/business-foundation-services/entity-type-analysis"
-            },
-            {
-              "label": "Accounting system setup",
-              "url": "/what-we-do/business-foundation-services/accounting-system-setup"
-            },
-            {
-              "label": "Retirement plan analysis",
-              "url": "/what-we-do/business-foundation-services/retirement-plan-analysis"
-            }
-          ]
-        },
-        {
           "label": "Business management services",
           "url": "/what-we-do/business-management-services"
         }
