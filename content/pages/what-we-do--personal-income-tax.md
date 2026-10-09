@@ -66,10 +66,6 @@ Our secure online platform lets you upload W-2s, 1099s, foreign income statement
 
 Abramson & Company has prepared personal and business tax returns from Westport since 2005. Clients choose the firm for CPA-led review of every return, a fixed monthly fee that bundles tax with bookkeeping and payroll when needed, and a team that already knows their financial picture before tax season starts.
 
-- **2005**: Year Abramson & Company was founded in Westport, CT
-- **4**: States served, including Connecticut, New York, New Jersey, and California
-- **5**: Client niches served, from real estate and retail to equine
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Personal income tax
 
