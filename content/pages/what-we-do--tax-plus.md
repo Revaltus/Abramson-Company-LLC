@@ -32,8 +32,8 @@ Abramson & Company has prepared personal income tax returns from our Westport of
 
 A bare-bones filing shop plugs numbers into software and mails you a bill. Our personal income tax service is built around your individual situation, catching what a fast-turnaround preparer misses and continuing to work for you well after April 15.
 
-- Federal and multi-state personal return preparation for clients in any state
-- Year-round individual tax planning, not a once-a-year appointment in April
+- Federal and multi-state personal return preparation
+- Year-round individual tax planning, not a once-a-year appointment in April, including one tax projection
 - Audit protection, so you have support if the IRS or a state agency sends a letter
 - Coordination with your business return, payroll, and bookkeeping if you own a company
 - Review of withholding, estimated payments, and life changes like a home sale, a new dependent, or a move abroad
