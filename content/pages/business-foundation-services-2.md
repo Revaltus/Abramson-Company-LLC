@@ -65,6 +65,26 @@ Because retirement planning connects to your entity choice and your tax strategy
 
 As your business changes, we'll check back in. A plan that made sense in year one may need a second look as your income grows or your team expands, and we're glad to walk through it with you.
 
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What are business foundation services?**
+A: They are the early decisions that shape everything else about your business: choosing an entity type, setting up your accounting system, analyzing retirement plan options, reviewing your business plan, and getting guidance on registration and licensing. You work with a CPA from the first decision onward.
+
+**Q: How do I choose between an LLC, S-corp, and C-corp?**
+A: The right structure depends on your tax picture, how you plan to pay yourself, and your long-term goals. Our entity type analysis weighs each option against your situation and gives you a clear recommendation in plain language.
+
+**Q: Do you help businesses outside Westport?**
+A: Yes. We serve Westport, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, along with clients in California, especially the Bay Area.
+
+**Q: When should I set up my accounting system?**
+A: Ideally before your first sale. Starting with a bookkeeping structure built for your business means cleaner records, fewer surprises at tax time, and less cleanup later.
+
+**Q: Which retirement plan is right for a new business?**
+A: It depends on your business structure, income, and whether you plan to hire. Options include a SEP-IRA, Solo 401(k), and SIMPLE IRA. Our retirement plan analysis helps you compare them and choose the one that fits.
+
+**Q: Can you keep helping after my business is set up?**
+A: Absolutely. We offer bookkeeping, payroll, tax, and advisory services, which can be bundled for a fixed monthly fee, so the same team that helped you start can support you as you grow.
 
 ---
 ## SEO & AIO Metadata
