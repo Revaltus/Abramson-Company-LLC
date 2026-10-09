@@ -1,14 +1,14 @@
 ---
 title: "Outsourced Accounting 2 | Abramson & Company LLC"
 url: "/outsourced-accounting-2"
-meta_title: "Outsourced Accounting 2"
-meta_description: ""
-target_keyword: ""
-secondary_keywords: []
+meta_title: "Outsourced Accounting in Westport, CT | Abramson & Company"
+meta_description: "Outsourced accounting for Westport and Fairfield County businesses: bookkeeping, payroll, business tax, and audit protection, CPA-reviewed for one fixed monthly fee."
+target_keyword: "Westport Connecticut CPA"
+secondary_keywords: ["Fairfield County CT accountant", "Tri-state CPA firm", "outsourced accounting Westport CT", "outsourced bookkeeping and payroll"]
 canonical_url: ""
 schema_markup: "WebPage"
 hero: "page-header"
-answer_block: ""
+answer_block: "Abramson & Company provides outsourced accounting for Westport and Fairfield County businesses, covering bookkeeping, payroll, business tax, and audit protection with CPA-level review for a fixed monthly fee."
 eeat_signals: []
 internal_links: []
 faq_block: []
