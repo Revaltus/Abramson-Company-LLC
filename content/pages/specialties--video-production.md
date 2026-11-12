@@ -26,7 +26,7 @@ Abramson & Company works with production companies in Westport, CT and Fairfield
 <!-- block: checklist-section | variant: standalone -->
 ## Bookkeeping that shows your margin on every shoot
 
-Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/outsourced-accounting) services are bundled under one fixed monthly fee. You see real-time numbers on a secure online platform, not a monthly PDF.
+Our bookkeeping and [outsourced accounting](/services/outsourced-accounting) services are bundled under one fixed monthly fee. You see real-time numbers on a secure online platform, not a monthly PDF.
 
 - Project-by-project budget tracking, so you know margin on each shoot
 - Client invoicing and collections support to steady cash flow between productions
@@ -38,7 +38,7 @@ Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/o
 
 One shoot day can involve a salaried production manager, three freelance camera operators paid on a 1099, and a per-project gaffer. Classifying each person correctly is where production companies often run into trouble.
 
-Our [payroll](/services/payroll) service handles W-2 staff, 1099 contractors, and per-project crew in one system. We flag misclassification risk early and issue year-end W-2 and 1099 forms.
+Our payroll service handles W-2 staff, 1099 contractors, and per-project crew in one system. We flag misclassification risk early and issue year-end W-2 and 1099 forms.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Tax planning for video and media production
