@@ -48,6 +48,21 @@ LLC or S-corp isn't a question with one right answer. It depends on how much you
 
 We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a generic template assumed it would go.
 
+<!-- block: content-cards | variant: 3-col -->
+## Three ways we set your business up to succeed
+
+### Entity type analysis
+
+We compare LLC, S-corp, C-corp, and other structures against your tax picture, how you plan to pay yourself, and your long-term goals. [Learn more about entity type analysis](/services/entity-type-analysis).
+
+### Accounting system setup
+
+We build a bookkeeping structure that fits your business instead of a generic template, so bookkeeping, payroll, and tax prep run smoothly from day one. [Learn more about accounting system setup](/services/accounting-system-setup).
+
+### Retirement plan analysis
+
+We identify the plan, such as a SEP-IRA, Solo 401(k), or SIMPLE IRA, that fits your business structure and income, so it works with your tax strategy from the start.
+
 <!-- block: industry-cards | variant: 4-col | theme: ink -->
 ## Built for real estate, professional services, video production, and retail
 
