@@ -25,36 +25,6 @@ If you're searching for accounting jobs in Westport CT, you already know the dif
 
 Open roles span bookkeeping, outsourced accounting, payroll, tax preparation, and business advisory work. Whether you're early in your career or bringing years of public accounting experience, there's a place here for people who want steady, meaningful work at a firm built to last.
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## What it's like to serve clients across industries
-
-No two days look alike here. One morning you might be reconciling books for a Fairfield County landlord, and by afternoon you're building a tax strategy for a retail client in Bridgeport or reviewing payroll for a professional services firm in Greenwich. Clients stretch across Connecticut, New York, New Jersey, and California, especially the Bay Area, so the casework stays varied and the client roster keeps growing.
-
-### Real Estate
-icon: Home
-
-Property owners, investors, and developers need accurate books, entity structuring, and tax strategies built around depreciation and 1031 exchanges. See how the firm approaches this niche on the [real estate industry page](/industries/real-estate).
-
-### Professional Service Providers
-icon: Briefcase
-
-Law firms, consultancies, and agencies bring recurring bookkeeping, payroll, and cash flow questions that reward a team who already knows their business model. Learn more on the [professional services page](/industries/professional-service-providers).
-
-### Retail
-icon: Building2
-
-Inventory, seasonal cash flow, and multi-location payroll keep retail work fast-paced and detail-driven. Explore the firm's retail work on the [retail industry page](/industries/retail).
-
-### Equine
-icon: HeartPulse
-
-Barn owners, trainers, and breeding operations have unique cost structures, from feed and vet bills to boarding income, that generalist firms often miss.
-
-### Influencers
-icon: Sparkles
-
-Content creators and social media professionals need help tracking irregular income, deductible expenses, and estimated tax payments across platforms and states.
-
 <!-- block: service-cards | variant: 3-col -->
 ## Current openings in accounting, tax, and payroll
 
