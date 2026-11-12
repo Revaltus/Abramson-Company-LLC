@@ -44,11 +44,6 @@ Running a property portfolio, a service firm, a production company, or a shop me
 
 More than one team member knows your account, so someone can always step in.
 
-<!-- block: intro-text | variant: centered -->
-## Serving Westport and Fairfield County since 2005
-
-We work with clients across the tri-state area of Connecticut, New York, and New Jersey, and with clients in California's Bay Area. Our focus includes [real estate](/industries/real-estate), [professional service providers](/industries/professional-service-providers), [video production companies](/industries/video-production), and [retail businesses](/industries/retail).
-
 <!-- block: process-steps | variant: horizontal -->
 ## How we get your books in order
 
