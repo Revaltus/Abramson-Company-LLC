@@ -87,23 +87,6 @@ Ray founded Abramson & Company in its current form in 2005, built around a simpl
 
 Every client is known by more than one team member. If your regular contact is out, someone else can pick up the phone already understanding your business, your tax history, and what you're working toward this quarter. That's not an accident. It's how the firm is structured, because financial guidance falls apart the moment you're stuck waiting for one person to get back from vacation. Clients across Westport and Fairfield County have relied on that continuity for years, some since the firm's early days.
 
-<!-- block: content-split | variant: image-left | image: online-platform-laptop-review.jpg | alt: "Client viewing financial dashboard on a laptop with an accountant on screen" | query: "client reviewing financial dashboard laptop" -->
-## A secure online platform that keeps you in the loop
-
-Financial information moves fast, and most of it is confusing. Abramson & Company gives every client access to a secure online platform to see your books, review documents, and message your team in real time, instead of waiting for a callback or digging through old email threads.
-
-You don't need to be a CPA to understand what's happening with your money when you can log in and see it yourself. Questions get answered inside the same platform where your documents live, so nothing gets lost between an inbox and a filing cabinet. It's built for clients who want visibility between meetings, not just a summary once a year.
-
-<!-- block: checklist-section | variant: with-image | image: connecticut-map-region-clients.jpg | alt: "Map view representing Connecticut, New York, and New Jersey client service areas" | query: "business district map location coastal town" -->
-## Serving Westport, Fairfield County, and the tri-state area, plus the Bay Area
-
-Abramson & Company works with clients in person around Westport and Fairfield County, and remotely with clients across the tri-state area and the Bay Area in California. The same team, the same platform, and the same fixed-fee service apply no matter which coast you're calling from.
-
-- Westport, CT and Fairfield County, CT: in-person meetings whenever you want one
-- The tri-state area of CT, NY, and NJ: full-service support without a local office visit
-- California, especially the Bay Area: the same CPA-led service, three time zones away
-- Small businesses and real estate professionals: every client gets a team, not one point of contact
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
 
