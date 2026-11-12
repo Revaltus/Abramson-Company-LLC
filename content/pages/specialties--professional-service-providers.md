@@ -70,11 +70,6 @@ An IRS notice is stressful for any practice. Our [Audit Protection](/services/au
 
 We also work with you on [business management](/services/business-management-services) and [retirement plan analysis](/services/retirement-plan-analysis) questions as they come up, not just at tax time.
 
-<!-- block: intro-text | variant: left-aligned -->
-## A CPA team that knows your business
-
-Multiple people on our team know each client well enough to step in for one another, so you're never waiting on one person's calendar. We serve Westport, Fairfield County, the tri-state area of CT, NY, and NJ, and clients in California's Bay Area. Learn more on our [who we are](/who-we-are) page.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Professional service provider accounting
 
