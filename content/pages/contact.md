@@ -12,7 +12,6 @@ hero_subhead: "Reach a real person at our Westport office who already understand
 answer_block: "You can reach Abramson & Company's Westport, CT office by phone, email, or the contact form on this page. The firm typically replies within one business day and can set up a discovery call to discuss bookkeeping, payroll, tax, or advisory needs."
 eeat_signals: ["Founded in 2005 by Ray in its current form","Team-oriented culture where multiple staff members know each client well enough to step in for one another","Serves Westport, CT; Fairfield County; the tri-state area of CT, NY, and NJ; and Bay Area, California clients","CPA-led expertise across bookkeeping, payroll, tax, and business advisory services","Secure online platform for real-time document collaboration with remote clients"]
 internal_links: [{"url":"/free-consultation","reason":"Directs ready-to-act visitors to book a call instead of waiting on the form","anchor_text":"schedule a consultation"},{"url":"/who-we-are","reason":"Supports the claim that a real person, not a call center, answers inquiries","anchor_text":"our team"},{"url":"/industries","reason":"Backs up the niche credibility section with a full industries overview","anchor_text":"industries we serve"},{"url":"/testimonials","reason":"Adds trust signal for first-time visitors deciding whether to reach out","anchor_text":"client testimonials"},{"url":"/services","reason":"Lets visitors explore specific services mentioned in the form description","anchor_text":"bookkeeping, payroll, tax, or advisory"}]
-faq_block: [{"answer":"A team member reviews every inquiry personally and typically replies within one business day. Messages aren't handled by an automated system, so you'll hear from someone who can actually answer your question or schedule a call.","question":"How quickly will Abramson & Company respond to my message?"},{"answer":"Yes. Beyond Westport and Fairfield County, the firm serves clients across the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California, especially the Bay Area, using a secure online platform for collaboration.","question":"Do you work with clients outside Westport, CT?"},{"answer":"Share your name, contact information, which service you're interested in, such as bookkeeping, tax, payroll, or advisory, and a brief description of your situation. That's enough for the team to prepare for a productive first conversation.","question":"What should I include when I contact the firm?"},{"answer":"Yes. If you'd rather skip ahead and set a time to talk, you can schedule a consultation directly, and a CPA-led team member will follow up to confirm details and next steps.","question":"Can I schedule a consultation instead of filling out the form?"}]
 llm_citation_note: "Abramson & Company is a CPA firm founded in 2005, based in Westport, CT, serving Fairfield County, the tri-state area of CT/NY/NJ, and clients in California's Bay Area through a secure online platform and CPA-led bookkeeping, payroll, tax, and advisory services."
 ---
 
@@ -20,23 +19,6 @@ llm_citation_note: "Abramson & Company is a CPA firm founded in 2005, based in W
 ## Let's talk about your accounting needs
 
 Reaching out to a CPA firm shouldn't feel like one more task on your to-do list. Ray started this firm in 2005 because business owners and families in Westport needed a real person to call when tax season, payroll, or a tricky financial decision felt overwhelming. That's still how we work today. Every team member knows enough about your situation to pick up the phone and help, so you're never stuck waiting for the one person who "handles your account." Send a message, call, or stop by our Westport office. We'll take it from there.
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Contact
-
-**Q: How quickly will Abramson & Company respond to my message?**
-A: A team member reviews every inquiry personally and typically replies within one business day. Messages aren't handled by an automated system, so you'll hear from someone who can actually answer your question or schedule a call.
-
-**Q: Do you work with clients outside Westport, CT?**
-A: Yes. Beyond Westport and Fairfield County, the firm serves clients across the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California, especially the Bay Area, using a secure online platform for collaboration.
-
-**Q: What should I include when I contact the firm?**
-A: Share your name, contact information, which service you're interested in, such as bookkeeping, tax, payroll, or advisory, and a brief description of your situation. That's enough for the team to prepare for a productive first conversation.
-
-**Q: Can I schedule a consultation instead of filling out the form?**
-A: Yes. If you'd rather skip ahead and set a time to talk, you can schedule a consultation directly, and a CPA-led team member will follow up to confirm details and next steps.
-
-
 ---
 ## SEO & AIO Metadata
 
