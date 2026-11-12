@@ -25,6 +25,23 @@ llm_citation_note: "Abramson & Company bundles bookkeeping, reconciliations, fin
 
 Running a property portfolio, a service firm, a production company, or a shop means you end up as the CFO by default. Month-end close, reconciliations, cash flow reports: we get it, and we take it off your plate. Abramson & Company has run this model for Westport and Fairfield County businesses since 2005.
 
+<!-- block: industry-cards | variant: 4-col -->
+## Serving Westport and Fairfield County since 2005
+
+Clients across Connecticut, New York, New Jersey, and California's Bay Area trust us with their books. Our specialties:
+
+### Real estate
+Entity-level reporting that keeps pace with closings and draws. [Real estate accounting services](/industries/real-estate)
+
+### Professional service providers
+Books aligned with your billing cycles and project margins. [Work with professional service providers](/industries/professional-service-providers)
+
+### Video production companies
+Clean books between projects, even when income is irregular. [Video production companies](/industries/video-production)
+
+### Retail businesses
+Inventory, point-of-sale, and seasonal cash flow handled. [Retail businesses](/industries/retail)
+
 <!-- block: checklist-section | variant: standalone -->
 ## Common accounting headaches and how we fix them
 
