@@ -77,20 +77,6 @@ icon: Receipt
 
 Inventory financing, seasonal swings, and thin margins mean [retail](/industries/retail) businesses need close, current numbers, not a report that shows up six weeks late. We keep clients current on cost of goods, inventory turns, and vendor terms.
 
-<!-- block: content-split | variant: image-left | image: secure-client-portal-review.jpg | alt: "Business owner reviewing financial dashboard on a laptop with an advisor" | query: "business owner laptop financial dashboard review" -->
-## Real-time visibility through a secure online platform
-
-You shouldn't have to call and wait for someone to email you a PDF to know where your business stands. Clients work with their Abramson team through a secure online platform that keeps financials current and puts real numbers in front of you, not last quarter's snapshot.
-
-The same platform is where questions get answered. Message your team, upload a document, or check a report without waiting for a callback. It closes a gap a lot of owners feel: plenty of information out there, but not enough of it that's actually about their business, current, and easy to reach. Whether you're managing a real estate portfolio, running a production schedule, advising clients, or moving retail inventory, the numbers you need are always within reach.
-
-<!-- block: content-prose -->
-## Serving business owners across Fairfield County and beyond
-
-Abramson & Company is based in Westport, CT, and most of our business management clients are within driving distance across Fairfield County. That local footprint matters when you want to sit down in person with your CPA team.
-
-It's not the whole story, though. We also work with clients throughout the tri-state area of Connecticut, New York, and New Jersey, and with a growing group of clients in California, particularly the Bay Area. The secure online platform makes distance beside the point: your reporting and your team look the same whether you're in Westport or Walnut Creek.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business management services
 
