@@ -16,114 +16,93 @@ hero_headline: "Your accounting department without the overhead"
 answer_block: "Outsourced accounting from Abramson & Company gives Westport and Fairfield County businesses a full accounting department, covering bookkeeping, reconciliations, financial statements, and CPA-level review, for one fixed monthly fee. Clients track their numbers in real time through a secure online platform instead of waiting on emailed spreadsheets."
 eeat_signals: ["Firm founded in 2005 by Ray, operating in its current form since","Every outsourced accounting account receives CPA-level review, not just bookkeeper data entry","Team-oriented staffing model ensures multiple staff members know each client account well enough to cover for one another","Serves Westport, Fairfield County, the tri-state area of CT/NY/NJ, and clients in California's Bay Area"]
 internal_links: [{"url":"/industries/real-estate","reason":"Connects the outsourced accounting page to the real estate niche it serves","anchor_text":"real estate accounting services"},{"url":"/industries/retail","reason":"Supports the retail niche card with a dedicated industry page","anchor_text":"retail businesses"},{"url":"/industries/professional-service-providers","reason":"Supports the professional services niche card with a dedicated industry page","anchor_text":"work with professional service providers"},{"url":"/contact","reason":"Primary page CTA directing prospects to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"It covers day-to-day transaction management, bank and credit card reconciliations, financial statement preparation, cash flow reporting, and month-end close, all reviewed by a CPA. It's a full accounting department, not a single bookkeeper handling one piece of the work.","question":"What does outsourced accounting include at Abramson & Company?"},{"answer":"Services are bundled into one fixed monthly fee based on your transaction volume and number of entities, so there are no surprise hourly invoices. Package details are discussed during your consultation so pricing matches your actual scope of work.","question":"How much does outsourced accounting cost?"},{"answer":"The firm serves Westport, CT, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, along with a growing group of clients in California's Bay Area. The firm has operated in its current form since 2005.","question":"What areas does Abramson & Company serve?"},{"answer":"A bookkeeper enters transactions. Outsourced accounting through Abramson & Company adds CPA-level review, financial statement preparation, and cash flow reporting on top of that entry work, plus real-time access through a secure client platform.","question":"How is outsourced accounting different from hiring a bookkeeper?"}]
+faq_block: [{"question":"What does outsourced accounting include at Abramson & Company?","answer":"It covers day-to-day transaction management, bank and credit card reconciliations, financial statement preparation (profit and loss, balance sheet, statement of cash flows), cash flow reporting, and month-end close run against a defined checklist, all reviewed by a CPA. It is a full accounting department, not one bookkeeper handling one piece."},{"question":"How much does outsourced accounting cost?","answer":"Services are bundled into one fixed monthly fee based on your transaction volume and number of entities, so there are no surprise hourly invoices or arguments over what counted as extra. We discuss package details during your consultation so pricing matches your actual scope of work."},{"question":"How is outsourced accounting different from hiring a bookkeeper?","answer":"A bookkeeper enters transactions. Outsourced accounting adds CPA-level review, financial statement preparation, and cash flow reporting on top of that entry work, plus real-time access through a secure client platform. The result is numbers accurate enough to make decisions on, not just to file a return."},{"question":"What areas does Abramson & Company serve?","answer":"The firm serves Westport, CT, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, along with clients in California, especially the Bay Area. The firm was founded in 2005 and has run this model since."},{"question":"Which services are part of the outsourced accounting team?","answer":"Bookkeeping covers transaction classification, expense tracking, bill payment and invoicing, and reporting. Payroll covers processing, payroll tax filings, W-2 and 1099 processing, and pension and garnishment remittance. Tax covers preparation, planning, electronic filing, and year-round support. Audit Protection covers IRS notice handling, state and federal representation, and appeals and litigation support."},{"question":"How does outsourced accounting help real estate investors?","answer":"Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities. We track income and expenses at the entity level so you know which properties perform and which need attention. See our [real estate accounting services](/industries/real-estate) for specifics."},{"question":"Do you work with professional service providers?","answer":"Yes. Law firms, consultants, and agencies bill by project or retainer, so we align your books with your billing cycles. You can see realized revenue, outstanding receivables, and true project margins in real time. Learn more about our [work with professional service providers](/industries/professional-service-providers)."},{"question":"Can you handle video production company accounting?","answer":"Yes. Production companies deal with irregular income, multi-state tax exposure, and project-based expenses. Our team understands production billing and keeps your books clean between projects so tax season does not catch you off guard. Learn more about our [work with video production companies](/industries/video-production)."},{"question":"What does outsourced accounting look like for retail businesses?","answer":"Retail needs inventory tracking, point-of-sale reconciliation, and a bookkeeping rhythm that respects seasonal cash flow swings, not a generic monthly close that ignores your busy season. See how we support [retail businesses](/industries/retail)."},{"question":"What does the secure online platform do?","answer":"Every outsourced accounting client gets a secure platform where financials, documents, and messages live in one place, updated as our team closes your books. You can see your current cash position, message your account team, and pull a financial statement without waiting for month-end."}]
 llm_citation_note: "Abramson & Company bundles bookkeeping, reconciliations, financial statements, and CPA-level review into outsourced accounting for one fixed monthly fee, serving Westport, CT, Fairfield County, and the tri-state area since 2005."
 ---
 
-<!-- block: content-split | variant: image-right | image: outsourced-accounting-team.jpg | alt: "Accountant and small business owner reviewing financial reports together at a desk" | query: "accountant business owner reviewing reports" -->
+<!-- block: intro-text | variant: centered -->
 ## Your accounting department without the overhead
 
-Running a real estate portfolio, a professional service business, a video production company, or a retail operation means wearing a dozen hats, and sooner or later "chief financial officer" becomes one you can't wear well. Outsourced accounting gives you a full department: bookkeeping, controller-level review, and CPA oversight, without the cost of hiring staff to do it. Abramson & Company has run this exact model since founding the firm in 2005, moving Westport and Fairfield County businesses off spreadsheets and onto systems that actually show how the business is doing.
+Running a property portfolio, a service firm, a production company, or a shop means you end up as the CFO by default. Month-end close, reconciliations, cash flow reports: we get it, and we take it off your plate. Abramson & Company has run this model for Westport and Fairfield County businesses since 2005.
 
-Most firms selling "outsourced accounting" are really renting out a bookkeeper. Ours is different. Every account gets CPA-level review, so the numbers you see are accurate enough to make real decisions on, not just accurate enough to file a return. Whether you're tracking property draws, project retainers, production budgets, or seasonal inventory swings, that's the difference between a data-entry service and an accounting department built around how your business actually works.
+<!-- block: checklist-section | variant: standalone -->
+## Common accounting headaches and how we fix them
 
-<!-- block: checklist-section | variant: with-image | image: monthly-close-checklist.jpg | alt: "Accounting team member reconciling bank statements on a laptop" | query: "accountant reconciling bank statements laptop" -->
-## What our outsourced accounting team handles for you
-
-An outsourced accounting engagement with our firm covers the full cycle of financial work a growing business needs, not a slice of it. See how it compares to standard bookkeeping if you're deciding how much support your business actually needs.
-
-- Day-to-day transaction management, so every bill, deposit, and expense is coded correctly and on time, whether that's a property draw, a client retainer, a production invoice, or a point-of-sale batch
-- Bank and credit card reconciliations, completed monthly so nothing slips through unnoticed
-- Financial statement preparation, including profit and loss, balance sheet, and statement of cash flows, structured for how real estate investors, service firms, video production companies, and retailers actually read their numbers
-- Cash flow reporting, so you can see what's coming before it becomes a problem, critical when you're managing multiple entities, project pipelines, production timelines, or seasonal inventory
-- Month-end close, run against a defined checklist and timeline you can count on
-- Ongoing account review by a CPA, not just a bookkeeper entering data
-
-If you've been getting by on a part-time bookkeeper and hope, this is the difference between reactive numbers and numbers you can actually plan around.
-
-<!-- block: feature-grid | variant: 4-col -->
-## Four services, one outsourced accounting team
-
-### Bookkeeping
-icon: BookOpen
-
-Transaction classification, expense tracking, bill payment and invoicing, and clear reporting.
-
-### Payroll
-icon: Users
-
-Payroll processing, payroll tax filings, W-2 and 1099 processing, and pension and garnishment remittance.
-
-### Tax
-icon: FileText
-
-Tax preparation, tax planning, electronic filing, and year-round support.
-
-### Audit Protection
-icon: ShieldCheck
-
-IRS notice handling, state and federal representation, and appeals and litigation support.
-
-<!-- block: content-split | variant: image-left | image: fixed-fee-billing.jpg | alt: "Business owner reviewing a monthly invoice statement at a desk" | query: "business owner reviewing invoice statement" -->
-## How our fixed monthly bundle keeps costs predictable
-
-Traditional accounting billing punishes growth. The more transactions you have, or the more entities, properties, projects, or locations you add, the bigger your hourly invoice, and the less predictable your budget becomes. We bundle bookkeeping, reconciliations, financial reporting, and CPA review into one fixed monthly fee, set in advance and tied to the scope of your business rather than the clock.
-
-That means no surprise invoices after a busy quarter, no line-item arguing over which task counted as "extra," and no guessing what next month's bill looks like. Real estate investors managing multiple entities, professional service firms with project-based billing, video production companies with irregular income, and retailers navigating seasonal swings all tell us this predictability alone makes budgeting easier than anything their previous bookkeeper offered. Ask about specific bundle sizes when you schedule a consultation, since the right package depends on your transaction volume and how many entities you run.
+- **Books that are always behind.** Your bills, deposits, and expenses are coded on time, and bank and credit card accounts are reconciled every month.
+- **Numbers you can't plan around.** You get profit and loss, balance sheet, cash flow reporting, and a month-end close on a set timeline.
+- **A bookkeeper with no one checking the work.** A CPA reviews every account, so the numbers hold up for decisions, not just for a tax return.
+- **Hourly bills that climb as you grow.** Bookkeeping, reconciliations, reporting, and CPA review come in one fixed monthly fee.
+- **Waiting days for an answer.** A secure online platform shows your financials, documents, and messages in one place.
 
 <!-- block: content-split | variant: image-right | image: secure-client-portal.jpg | alt: "Business owner viewing financial dashboard on a laptop screen" | query: "business owner laptop financial dashboard" -->
-## Real-time collaboration through our secure client platform
+## What you get each month
 
-You shouldn't have to email a spreadsheet and wait three days for an answer. Every outsourced accounting client gets access to a secure online platform where financials, documents, and messages live in one place, updated as our team closes your books.
+- A fixed monthly fee, set in advance, so there are no surprise invoices after a busy quarter
+- Financial statements and cash flow reporting prepared by our team
+- Real-time access to your numbers and your account team through our secure platform
+- Payroll, tax, and audit protection available from the same team
 
-Log in and see your current cash position, message your account team directly, and pull a financial statement without waiting for month-end to ask for one. It's the same transparency you'd expect from an in-house controller, minus the payroll cost of employing one. For owners who've felt in the dark about their own numbers, that visibility changes how decisions get made.
+More than one team member knows your account, so someone can always step in.
 
-<!-- block: industry-cards | variant: 4-col | theme: ink -->
-## Built for Westport and Fairfield County businesses
+<!-- block: intro-text | variant: centered -->
+## Serving Westport and Fairfield County since 2005
 
-Abramson & Company has served Westport and Fairfield County since 2005, with clients across the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California's Bay Area. Outsourced accounting works especially well for a few types of businesses we see most often.
+We work with clients across the tri-state area of Connecticut, New York, and New Jersey, and with clients in California's Bay Area. Our focus includes [real estate](/industries/real-estate), [professional service providers](/industries/professional-service-providers), [video production companies](/industries/video-production), and [retail businesses](/industries/retail).
 
-### Real Estate
-icon: Home
+<!-- block: process-steps | variant: horizontal -->
+## How we get your books in order
 
-Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities, not a once-a-year summary. We track income and expenses at the entity level, so you always know which properties are performing and which need attention. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
+### Review your current books
+We look at your records, reporting gaps, and entities.
 
-### Professional Service Providers
-icon: Briefcase
+### Set your bundle
+We set a fixed monthly fee based on your transaction volume and entities.
 
-Law firms, consultants, and agencies bill by project or retainer, and need financials that reflect how the business actually earns money. We align your books with your billing cycles so you can see realized revenue, outstanding receivables, and true project margins in real time. Learn more about our [work with professional service providers](/industries/professional-service-providers).
+### Move you onto the platform
+Your documents and financials go into one secure place.
 
-### Video Production Companies
-icon: Film
-
-Production companies juggle irregular income, multi-state tax exposure, and project-based expenses that most generalist bookkeepers mishandle. Our team understands how production billing works and keeps your books clean between projects so tax season never catches you off guard. Learn more about our [work with video production companies](/industries/video-production).
-
-### Retail
-icon: Building2
-
-Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings demand a bookkeeping rhythm built around how [retail businesses](/industries/retail) actually operate, not a generic monthly close that ignores your busy season or your shrinkage.
+### Close monthly with CPA review
+You get reconciled books and statements on a steady schedule.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced accounting
 
 **Q: What does outsourced accounting include at Abramson & Company?**
-A: It covers day-to-day transaction management, bank and credit card reconciliations, financial statement preparation, cash flow reporting, and month-end close, all reviewed by a CPA. It's a full accounting department, not a single bookkeeper handling one piece of the work.
+A: It covers day-to-day transaction management, bank and credit card reconciliations, financial statement preparation (profit and loss, balance sheet, statement of cash flows), cash flow reporting, and month-end close run against a defined checklist, all reviewed by a CPA. It is a full accounting department, not one bookkeeper handling one piece.
 
 **Q: How much does outsourced accounting cost?**
-A: Services are bundled into one fixed monthly fee based on your transaction volume and number of entities, so there are no surprise hourly invoices. Package details are discussed during your consultation so pricing matches your actual scope of work.
-
-**Q: What areas does Abramson & Company serve?**
-A: The firm serves Westport, CT, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, along with a growing group of clients in California's Bay Area. The firm has operated in its current form since 2005.
+A: Services are bundled into one fixed monthly fee based on your transaction volume and number of entities, so there are no surprise hourly invoices or arguments over what counted as extra. We discuss package details during your consultation so pricing matches your actual scope of work.
 
 **Q: How is outsourced accounting different from hiring a bookkeeper?**
-A: A bookkeeper enters transactions. Outsourced accounting through Abramson & Company adds CPA-level review, financial statement preparation, and cash flow reporting on top of that entry work, plus real-time access through a secure client platform.
+A: A bookkeeper enters transactions. Outsourced accounting adds CPA-level review, financial statement preparation, and cash flow reporting on top of that entry work, plus real-time access through a secure client platform. The result is numbers accurate enough to make decisions on, not just to file a return.
+
+**Q: What areas does Abramson & Company serve?**
+A: The firm serves Westport, CT, Fairfield County, and the tri-state area of Connecticut, New York, and New Jersey, along with clients in California, especially the Bay Area. The firm was founded in 2005 and has run this model since.
+
+**Q: Which services are part of the outsourced accounting team?**
+A: Bookkeeping covers transaction classification, expense tracking, bill payment and invoicing, and reporting. Payroll covers processing, payroll tax filings, W-2 and 1099 processing, and pension and garnishment remittance. Tax covers preparation, planning, electronic filing, and year-round support. Audit Protection covers IRS notice handling, state and federal representation, and appeals and litigation support.
+
+**Q: How does outsourced accounting help real estate investors?**
+A: Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities. We track income and expenses at the entity level so you know which properties perform and which need attention. See our [real estate accounting services](/industries/real-estate) for specifics.
+
+**Q: Do you work with professional service providers?**
+A: Yes. Law firms, consultants, and agencies bill by project or retainer, so we align your books with your billing cycles. You can see realized revenue, outstanding receivables, and true project margins in real time. Learn more about our [work with professional service providers](/industries/professional-service-providers).
+
+**Q: Can you handle video production company accounting?**
+A: Yes. Production companies deal with irregular income, multi-state tax exposure, and project-based expenses. Our team understands production billing and keeps your books clean between projects so tax season does not catch you off guard. Learn more about our [work with video production companies](/industries/video-production).
+
+**Q: What does outsourced accounting look like for retail businesses?**
+A: Retail needs inventory tracking, point-of-sale reconciliation, and a bookkeeping rhythm that respects seasonal cash flow swings, not a generic monthly close that ignores your busy season. See how we support [retail businesses](/industries/retail).
+
+**Q: What does the secure online platform do?**
+A: Every outsourced accounting client gets a secure platform where financials, documents, and messages live in one place, updated as our team closes your books. You can see your current cash position, message your account team, and pull a financial statement without waiting for month-end.
 
 <!-- block: cta-banner | variant: image-bg | image: cta-consultation-westport.jpg | alt: "CPA shaking hands with a small business owner in an office setting" | query: "cpa handshake business owner office" -->
-## Get started with a free consultation
+## Get a clear picture of your books
 
-Since 2005, Abramson & Company has been building outsourced accounting departments for businesses across Westport, Fairfield County, and the tri-state area. Schedule a consultation and we'll walk through your current books, your reporting gaps, and what a fixed monthly bundle would look like for your business.
+Schedule a free consultation and we'll walk through your current books, your reporting gaps, and what a fixed monthly bundle would look like for your business.
 
-[Schedule a consultation](/contact)
+[Book your free books review](/contact)
 
 ---
 ## SEO & AIO Metadata
