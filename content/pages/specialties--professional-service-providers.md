@@ -16,85 +16,98 @@ hero_headline: "Accounting built for doctors, attorneys, and professional firms"
 answer_block: "Abramson & Company is a Westport, CT CPA firm serving small doctor's offices, independent physician groups, attorneys, and marketing agencies with bundled bookkeeping, tax planning, payroll, and advisory services for one fixed monthly fee. Founded by Ray in 2005, the firm gives clients real-time financial visibility through a secure online platform and CPA-led guidance year-round, not just at tax time."
 eeat_signals: ["Founded in 2005 by Ray in its current form","Team-oriented culture where multiple staff members know each client well enough to step in for one another","Serves Westport, Fairfield County, the tri-state area of CT, NY, and NJ, and clients in California's Bay Area","CPA-led expertise spanning bookkeeping, payroll, tax, and business advisory services","Bundled services offered for a fixed monthly fee with a secure online collaboration platform"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Directly supports the bookkeeping section for service-based businesses","anchor_text":"bookkeeping"},{"url":"/services/outsourced-accounting","reason":"Reinforces the bundled service offering mentioned for busy practices","anchor_text":"outsourced accounting"},{"url":"/services/tax","reason":"Links to core tax service referenced in the tax planning section","anchor_text":"Tax"},{"url":"/services/personal-income-tax","reason":"Connects owner-level tax needs discussed alongside business tax","anchor_text":"personal income tax"},{"url":"/services/payroll","reason":"Supports the payroll section for growing firms","anchor_text":"payroll"},{"url":"/services/business-foundation-services/","reason":"Matches the section on entity setup and accounting system foundation","anchor_text":"Business Foundation Services"},{"url":"/services/audit-protection","reason":"Directly referenced in the audit protection section","anchor_text":"Audit Protection"},{"url":"/services/business-management-services","reason":"Supports the financial advice and growth planning discussion","anchor_text":"business management"},{"url":"/services/retirement-plan-analysis","reason":"Referenced as part of financial advice for growing firms","anchor_text":"retirement plan analysis"},{"url":"/who-we-are","reason":"Builds trust by linking to firm history and team culture page","anchor_text":"who we are"},{"url":"/contact","reason":"Primary page CTA directing readers to book a meeting","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Abramson & Company provides bookkeeping, outsourced accounting, tax planning and preparation, payroll, business foundation services, audit protection, and financial advisory support for consultants, agencies, and professional firms, often bundled under one fixed monthly fee.","question":"What accounting services does a CPA offer professional service providers in Westport, CT?"},{"answer":"Consultants and agencies typically face irregular, project-based cash flow and entity structure decisions that shift as revenue grows. Their accounting needs proactive planning around timing income, owner compensation, and retirement contributions rather than a single annual filing.","question":"How is accounting for consultants different from other small businesses?"},{"answer":"Yes. The firm serves Westport and Fairfield County, the broader tri-state area of Connecticut, New York, and New Jersey, and a growing base of clients in California's Bay Area, all supported through a secure online platform for real-time collaboration.","question":"Does Abramson & Company work with clients outside Westport, CT?"},{"answer":"Clients get bundled bookkeeping and outsourced accounting support with real-time access to their financials through a secure online platform, removing the surprise costs of hourly billing and giving owners consistent visibility into cash flow and margins.","question":"What is included in the fixed monthly fee for bookkeeping and outsourced accounting?"}]
+faq_block: [{"question":"What accounting services does a CPA offer professional service providers in Westport, CT?","answer":"Abramson & Company provides bookkeeping, outsourced accounting, tax planning and preparation, payroll, business foundation services, audit protection, and advisory support for doctors, attorneys, consultants, agencies, and professional firms, often bundled under one fixed monthly fee."},{"question":"How is accounting for consultants different from other small businesses?","answer":"Consultants and agencies typically face irregular, project-based cash flow and entity decisions that shift as revenue grows. Their accounting needs proactive planning around income timing, owner compensation, and retirement contributions rather than a single annual filing."},{"question":"Does Abramson & Company work with clients outside Westport, CT?","answer":"Yes. The firm serves Westport and Fairfield County, the tri-state area of Connecticut, New York, and New Jersey, and clients in California's Bay Area, all supported through a secure online platform for real-time collaboration."},{"question":"What is included in the fixed monthly fee for bookkeeping and outsourced accounting?","answer":"Clients get bundled bookkeeping and outsourced accounting with real-time access to their financials through a secure online platform. A fixed fee removes the surprise of hourly billing and gives owners steady visibility into cash flow and margins."},{"question":"How does tax planning differ for physician groups, attorneys, and agencies?","answer":"A physician group organized as a partnership or S-corp has compensation structures and retirement options that can reduce taxable income when planned early. An attorney with contingency fees must consider fee timing and quarterly estimates. An agency adding employees must revisit owner draws and payroll."},{"question":"What happens if my practice gets an IRS notice or billing audit?","answer":"Our Audit Protection service covers IRS notice handling, state and federal representation, and appeals support. Because your team already knows your books, you aren't explaining your business to a stranger under deadline. Organized records also help medical practices and attorneys if scrutiny arises."},{"question":"Can you help when I hire my first employee?","answer":"Yes. Our payroll service handles filings, deposits, and compliance, whether you're adding a nurse practitioner, an associate attorney, or a full-time creative. Business Foundation Services cover entity setup and accounting system structure so your books stay clean as headcount rises."},{"question":"Can you help with retirement plan and growth decisions?","answer":"Yes. We review retirement plan options through retirement plan analysis and support decisions like physician buy-ins, lateral partner hires, or bringing contractors in-house. Our business management and advisory work covers budgeting, revenue and expense analysis, and tax projections, not just tax-season questions."}]
 llm_citation_note: "Abramson & Company, a CPA firm founded in 2005 and based in Westport, CT, bundles bookkeeping, outsourced accounting, tax, and payroll services for small doctor's offices, independent physician groups, attorneys, and marketing agencies under a fixed monthly fee with real-time access via a secure online platform."
 ---
 
+<!-- block: intro-text | variant: centered -->
 ## Accounting built for doctors, attorneys, and professional firms
 
-<!-- block: intro-text | variant: centered -->
-Small doctor's offices, independent physician groups, law firms, and marketing agencies all run on specialized expertise — but their accounting rarely gets that same level of attention. A medical practice has to manage insurance reimbursements, provider compensation structures, and HIPAA-sensitive financial data. An attorney's books need to account for trust accounts, contingency arrangements, and bar compliance. A marketing agency juggles project-based billing, contractor payments, and fluctuating monthly retainers. A generic bookkeeper who dabbles across every industry isn't built to catch those nuances.
+A medical practice has insurance reimbursements and HIPAA-sensitive financial data. A law firm has trust accounts and contingency fees. A marketing agency has project billing, contractor payments, and retainers that move every month. A bookkeeper who dabbles in every industry won't catch those details.
 
-Abramson & Company is a CPA firm in Westport, CT that works with small doctor's offices, independent physician groups, attorneys, and marketing agencies across Fairfield County and the tri-state area. We've built our process around the cash flow patterns, entity decisions, and compliance needs specific to each of these practice types. This is not a once-a-year filing relationship. It's ongoing support from people who already understand how your business makes money.
+Abramson & Company is a Westport, CT CPA firm serving doctor's offices, physician groups, attorneys, and agencies across Fairfield County and the tri-state area. You get ongoing support from people who already understand how your practice makes money.
 
 <!-- block: content-split | variant: image-right | image: consultant-reviewing-financials.jpg | alt: "Professional service provider reviewing financial reports with a CPA" | query: "consultant meeting accountant office" -->
 ## Bookkeeping and outsourced accounting for busy practices
 
-Most physicians, attorneys, and agency owners didn't start their practice to spend evenings reconciling bank feeds. Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/outsourced-accounting) services combine into a single bundled package for one fixed monthly fee, so there's no surprise invoice when your books get more complicated.
+You didn't start your practice to reconcile bank feeds at night. Our [bookkeeping](/services/bookkeeping) and [outsourced accounting](/services/outsourced-accounting) services come as one bundle for a fixed monthly fee, so a more complicated month never brings a surprise invoice.
 
-The needs vary by practice type, and we account for that. Medical offices deal with insurance reimbursement timing that can make cash flow feel unpredictable even in a busy month. Law firms need trust account reconciliation handled correctly to stay in bar compliance. Marketing agencies managing multiple client retainers and project budgets need clean books that reflect where each engagement actually stands. You get access to a secure online platform where you and our team see the same numbers in real time, with no waiting for a monthly PDF or a callback to find out where things stand.
+- Insurance reimbursement timing tracked for medical offices
+- Trust account reconciliation for law firms
+- Retainer and project books for agencies
+- A secure online platform where you and our team see the same numbers in real time
 
-This is the kind of support a growing practice actually uses, not a service that sits unopened in an inbox once a quarter.
+<!-- block: feature-grid | variant: 3-col -->
+## Tax planning that happens before December 31
 
-<!-- block: content-split | variant: image-left | image: tax-planning-professional-firm.jpg | alt: "CPA discussing tax strategy documents with a professional services client" | query: "tax planning meeting office documents" -->
-## Tax planning and preparation for medical practices, law firms, and agencies
+### Year-round planning
+icon: Calendar
 
-Professional service owners tend to get hit hardest by once-a-year tax prep, because so much of what determines the bill, including entity structure, retirement contributions, quarterly estimates, and how you pay yourself, has to be decided before December 31, not after. Our [Tax](/services/tax) and Tax Plus services are built around planning throughout the year, not just filing in April.
+Entity structure, retirement contributions, quarterly estimates, and how you pay yourself are decided during the year. Our [Tax](/services/tax) and Tax Plus services are built around that.
 
-The right strategy looks different depending on your practice type. A physician group organized as a partnership or S-corp has provider compensation structures and retirement plan options that can significantly reduce taxable income when planned correctly. An attorney with a growing contingency practice needs to think about how fee timing affects quarterly estimates. A marketing agency owner adding employees has to reconsider how owner draws and payroll interact as the business scales. We also handle [personal income tax](/services/personal-income-tax) alongside your business return, since for most practice owners the two are completely inseparable.
+### Practice-specific strategy
+icon: Target
 
-The goal is a strategy you understand and revisit with us year-round, not a form that shows up once a year with a number attached.
+Physician groups, attorneys with contingency fees, and agency owners adding employees each face different tax questions.
 
-<!-- block: checklist-section | variant: with-image | image: payroll-team-professional-services.jpg | alt: "Small professional services team reviewing payroll and staffing documents" | query: "small business team payroll paperwork" -->
+### Personal and business together
+icon: FileText
+
+We prepare your [personal income tax](/services/personal-income-tax) alongside your business return, since the two are tied together.
+
+<!-- block: checklist-section | variant: standalone -->
 ## Payroll and business foundation support as you grow
 
-Adding staff changes the administrative load on a professional service firm fast, and the complexity differs by practice type. A small doctor's office adding a nurse practitioner or front-desk coordinator has different payroll and compliance requirements than a law firm bringing on an associate or a marketing agency adding a full-time creative. Our [payroll](/services/payroll) service handles the filings, deposits, and compliance work so you're not learning state withholding rules between patient appointments or client calls.
-
-[Business Foundation Services](/services/business-foundation-services/) cover the groundwork many growing practices skip: entity setup, accounting system structure, and the internal controls that keep books clean as headcount rises. For physician groups forming a new entity or attorneys transitioning from a sole practice to a partnership, getting that foundation right from the start prevents expensive corrections later.
-
-- Payroll processing, tax filings, and new-hire compliance for medical, legal, and agency staff
+- [Payroll](/services/payroll) processing, tax filings, and new-hire compliance for medical, legal, and agency staff
 - Contractor payments and 1099 tracking for freelancers and subcontracted specialists
-- Entity structure and accounting system setup for growing practices
-- Ongoing support as staffing needs shift with your caseload, patient volume, or client roster
+- Entity setup and accounting system structure through [Business Foundation Services](/services/business-foundation-services/)
+- Support as staffing shifts with your caseload, patient volume, or client roster
 
-This is the administrative work that quietly eats a founder's week. We take it off your plate so the work that actually earns revenue stays the priority.
+<!-- block: content-split | variant: image-left | image: cpa-advisory-meeting-westport.jpg | alt: "CPA advisor and business owner reviewing financial plan together" | query: "financial advisor client consultation office" -->
+## Audit protection and advice before you decide
 
-<!-- block: content-split | variant: image-right | image: cpa-advisory-meeting-westport.jpg | alt: "CPA advisor and business owner reviewing financial plan together" | query: "financial advisor client consultation office" -->
-## Audit protection and financial advice when it matters
+An IRS notice is stressful for any practice. Our [Audit Protection](/services/audit-protection) service gives you a direct line to someone who already knows your books.
 
-An IRS notice can stall any practice, but the stakes feel especially high when you're a physician managing a small office, an attorney with trust account obligations, or an agency owner with client contracts in flight. Our [Audit Protection](/services/audit-protection) service gives you a direct line to someone who already knows your books, so you're not starting from scratch explaining your business to a stranger under deadline pressure. For medical practices, that also means having someone prepared if a billing audit surfaces. For attorneys, it means your financial records are organized well enough to withstand bar-related scrutiny.
+We also work with you on [business management](/services/business-management-services) and [retirement plan analysis](/services/retirement-plan-analysis) questions as they come up, not just at tax time.
 
-Beyond compliance, growth decisions deserve more than a guess. Physician groups evaluating buy-in arrangements, law firms considering a lateral partner hire, and agencies thinking about bringing contractors in-house all face financial decisions that look simple on the surface and get complicated fast. We work alongside clients on [business management](/services/business-management-services) and [retirement plan analysis](/services/retirement-plan-analysis) questions as they come up, not just at tax time.
+<!-- block: intro-text | variant: left-aligned -->
+## A CPA team that knows your business
 
-Having someone to call before you make a decision, not just after, is the difference between reacting to problems and planning around them.
-
-## A CPA team that knows your business by name
-
-At Abramson & Company, we take pride in maintaining a team-oriented culture. Multiple people on our team know each client's business well enough to step in for one another, so you're never stuck waiting on one person's calendar to get an answer.
-
-We work with small business owners, real estate professionals, retail businesses, and professional service providers across Westport, Fairfield County, and the broader tri-state area of Connecticut, New York, and New Jersey, along with a growing group of clients in California's Bay Area. Read more about how the firm works on our [who we are](/who-we-are) page.
+Multiple people on our team know each client well enough to step in for one another, so you're never waiting on one person's calendar. We serve Westport, Fairfield County, the tri-state area of CT, NY, and NJ, and clients in California's Bay Area. Learn more on our [who we are](/who-we-are) page.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Professional service provider accounting
 
 **Q: What accounting services does a CPA offer professional service providers in Westport, CT?**
-A: Abramson & Company provides bookkeeping, outsourced accounting, tax planning and preparation, payroll, business foundation services, audit protection, and financial advisory support for consultants, agencies, and professional firms, often bundled under one fixed monthly fee.
+A: Abramson & Company provides bookkeeping, outsourced accounting, tax planning and preparation, payroll, business foundation services, audit protection, and advisory support for doctors, attorneys, consultants, agencies, and professional firms, often bundled under one fixed monthly fee.
 
 **Q: How is accounting for consultants different from other small businesses?**
-A: Consultants and agencies typically face irregular, project-based cash flow and entity structure decisions that shift as revenue grows. Their accounting needs proactive planning around timing income, owner compensation, and retirement contributions rather than a single annual filing.
+A: Consultants and agencies typically face irregular, project-based cash flow and entity decisions that shift as revenue grows. Their accounting needs proactive planning around income timing, owner compensation, and retirement contributions rather than a single annual filing.
 
 **Q: Does Abramson & Company work with clients outside Westport, CT?**
-A: Yes. The firm serves Westport and Fairfield County, the broader tri-state area of Connecticut, New York, and New Jersey, and a growing base of clients in California's Bay Area, all supported through a secure online platform for real-time collaboration.
+A: Yes. The firm serves Westport and Fairfield County, the tri-state area of Connecticut, New York, and New Jersey, and clients in California's Bay Area, all supported through a secure online platform for real-time collaboration.
 
 **Q: What is included in the fixed monthly fee for bookkeeping and outsourced accounting?**
-A: Clients get bundled bookkeeping and outsourced accounting support with real-time access to their financials through a secure online platform, removing the surprise costs of hourly billing and giving owners consistent visibility into cash flow and margins.
+A: Clients get bundled bookkeeping and outsourced accounting with real-time access to their financials through a secure online platform. A fixed fee removes the surprise of hourly billing and gives owners steady visibility into cash flow and margins.
+
+**Q: How does tax planning differ for physician groups, attorneys, and agencies?**
+A: A physician group organized as a partnership or S-corp has compensation structures and retirement options that can reduce taxable income when planned early. An attorney with contingency fees must consider fee timing and quarterly estimates. An agency adding employees must revisit owner draws and payroll.
+
+**Q: What happens if my practice gets an IRS notice or billing audit?**
+A: Our Audit Protection service covers IRS notice handling, state and federal representation, and appeals support. Because your team already knows your books, you aren't explaining your business to a stranger under deadline. Organized records also help medical practices and attorneys if scrutiny arises.
+
+**Q: Can you help when I hire my first employee?**
+A: Yes. Our payroll service handles filings, deposits, and compliance, whether you're adding a nurse practitioner, an associate attorney, or a full-time creative. Business Foundation Services cover entity setup and accounting system structure so your books stay clean as headcount rises.
+
+**Q: Can you help with retirement plan and growth decisions?**
+A: Yes. We review retirement plan options through retirement plan analysis and support decisions like physician buy-ins, lateral partner hires, or bringing contractors in-house. Our business management and advisory work covers budgeting, revenue and expense analysis, and tax projections, not just tax-season questions.
 
 <!-- block: cta-banner | variant: image-bg | image: westport-cpa-consultation.jpg | alt: "CPA and professional service business owner shaking hands after consultation" | query: "business owner accountant handshake meeting" -->
 ## Talk to a Westport CPA about your practice
 
-If your consulting practice, agency, or professional firm has outgrown a once-a-year tax appointment, it's worth a conversation. We'll walk through your bookkeeping, tax position, and payroll setup, and tell you plainly where a fixed monthly package and a CPA-led team could save you time and money.
+We'll walk through your bookkeeping, tax position, and payroll setup, and tell you plainly where a fixed monthly package could save you time and money.
 
-Schedule a consultation with Abramson & Company and bring your questions. We'll bring the answers.
+[Book a practice review](/contact)
 
 ---
 ## SEO & AIO Metadata
