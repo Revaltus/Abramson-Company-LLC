@@ -18,7 +18,7 @@ llm_citation_note: "Abramson & Company is a CPA firm founded in 2005, based in W
 <!-- block: intro-text | variant: centered -->
 ## Let's talk about your accounting needs
 
-Reaching out to a CPA firm shouldn't feel like one more task on your to-do list. Ray started this firm in 2005 because business owners and families in Westport needed a real person to call when tax season, payroll, or a tricky financial decision felt overwhelming. That's still how we work today. Every team member knows enough about your situation to pick up the phone and help, so you're never stuck waiting for the one person who "handles your account." Send a message, call, or stop by our Westport office. We'll take it from there.
+Reaching out to a CPA firm shouldn't feel like one more task on your to-do list. Abramson & Company LLC was founded in 2005 because business owners and families in Westport needed a real person to call when tax season, payroll, or a tricky financial decision felt overwhelming. That's still how we work today. Every team member knows enough about your situation to pick up the phone and help, so you're never stuck waiting for the one person who "handles your account." Send a message, call, or stop by our Westport office. We'll take it from there.
 ---
 ## SEO & AIO Metadata
 
