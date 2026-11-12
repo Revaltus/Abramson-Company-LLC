@@ -22,7 +22,7 @@ llm_citation_note: "Abramson & Company, a Westport, CT CPA firm founded in 2005,
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A CPA team built for the way real estate pros, professional service businesses, video production companies, and retailers operate
+## A CPA team that understand how your business operates
 
 Most accounting firms hand you a login and a generic checklist. Abramson & Company starts with a conversation about how your business works, because commission income, client billing cycles, production budgets, and retail cash flow each have their own rhythms and tax implications.
 
