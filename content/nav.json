@@ -56,29 +56,7 @@
     },
     {
       "label": "Resources",
-      "url": "/resources",
-      "children": [
-        {
-          "label": "Resource library",
-          "url": "/resources/resource-library"
-        },
-        {
-          "label": "Forms documents and links",
-          "url": "/resources/forms-documents-and-links"
-        },
-        {
-          "label": "Refund tracker",
-          "url": "/resources/refund-tracker"
-        },
-        {
-          "label": "Video library",
-          "url": "/resources/video-library"
-        },
-        {
-          "label": "Quick reads",
-          "url": "/resources/quick-reads"
-        }
-      ]
+      "url": "/resources"
     },
     {
       "label": "Contact",
