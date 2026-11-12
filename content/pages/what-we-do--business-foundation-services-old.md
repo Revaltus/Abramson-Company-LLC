@@ -25,7 +25,7 @@ llm_citation_note: "Abramson & Company, founded in 2005 by Ray, offers business 
 
 Starting a business in Westport or anywhere in Fairfield County means making a dozen decisions before you've made a single sale: what to name the thing, how to structure it, who to register with, and how to keep the books straight from day one. Google can hand you information. It can't tell you which answer fits your situation.
 
-Abramson & Company has worked with new business owners since Ray founded the firm in 2005 — real estate investors building portfolios, consultants and attorneys launching their own practices, video production companies navigating project-based revenue, and retail owners opening their first location. The pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
+Abramson & Company has worked with new business owners since Ray founded the firm in 2005, real estate investors building portfolios, consultants and attorneys launching their own practices, video production companies navigating project-based revenue, and retail owners opening their first location. The pattern hasn't changed: founders don't need more articles to read, they need someone who already knows the terrain to sit across the table and say, here's what makes sense for you. Business foundation services give you that person from the first decision onward, not just after the tax bill arrives.
 
 <!-- block: checklist-section | variant: with-image | image: startup-paperwork-review.jpg | alt: "Small business owner and CPA reviewing startup documents together" | query: "business owner reviewing paperwork consultation" -->
 ## What our business foundation services include
@@ -33,7 +33,7 @@ Abramson & Company has worked with new business owners since Ray founded the fir
 A strong start has fewer moving parts than most founders expect once someone lays them out in order. Our business foundation services cover the decisions that shape everything else:
 
 - Entity type analysis, weighing LLC, S-corp, C-corp, and other structures against your tax picture, how you plan to pay yourself, and your long-term goals
-- Retirement plan analysis, identifying the plan type — SEP-IRA, Solo 401(k), SIMPLE IRA, or others — that fits your business structure and income from the start
+- Retirement plan analysis, identifying the plan type, SEP-IRA, Solo 401(k), SIMPLE IRA, or others, that fits your business structure and income from the start
 - Business plan review, so your numbers hold up under real scrutiny before you present them to a lender or partner
 - Registration and licensing guidance for Connecticut, New York, or New Jersey, depending on where you're setting up
 - Accounting system setup, giving you a bookkeeping structure that fits your business instead of a generic template
@@ -44,7 +44,7 @@ Each piece connects to the next. Get the entity right and the tax strategy follo
 <!-- block: content-split | variant: image-right | image: entity-structure-planning.jpg | alt: "CPA and business owner discussing entity structure options at a desk" | query: "advisor client discussing business structure" -->
 ## Choosing the right entity structure for your goals
 
-LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport, a real estate investor building a portfolio in Fairfield County, an attorney spinning off their own practice, and a video production company with fluctuating project income can all have similar revenue numbers — and still land in different structures.
+LLC or S-corp isn't a question with one right answer. It depends on how much you expect to earn in year one, whether you plan to bring in partners or investors, how you want to pay yourself, and what your exit looks like five or ten years out. A retail shop owner in Westport, a real estate investor building a portfolio in Fairfield County, an attorney spinning off their own practice, and a video production company with fluctuating project income can all have similar revenue numbers, and still land in different structures.
 
 We walk through the tax consequences of each option with you, not at you. That means modeling out self-employment tax exposure, distribution rules, and filing obligations before you file anything, so the structure you choose supports where the business is actually headed instead of where a generic template assumed it would go.
 
@@ -73,15 +73,6 @@ icon: Building2
 
 Inventory, point-of-sale systems, and multi-location plans all shape the right accounting setup from the first day the doors open.
 
-<!-- block: content-split | variant: image-left | image: team-bundled-services-meeting.jpg | alt: "Accounting team members collaborating on a client account together" | query: "accounting team collaborating office meeting" -->
-## One team, bundled support as you grow
-
-Business foundation services are the starting point, not the whole relationship. As your business grows, bookkeeping, payroll, and tax needs stack up, and our bundled pricing model lets you add them for one fixed monthly fee instead of negotiating a new invoice every time.
-
-Our team-oriented culture means more than one person at Abramson & Company knows your file well enough to pick up the phone when you call. You're never stuck waiting on a single point of contact, and everything you need runs through the same secure online platform, so your bookkeeper, payroll processor, and CPA are all looking at the same real-time numbers.
-
-Retirement planning is part of that bigger picture. Once your entity is set up and your compensation structure is in place, we help you evaluate which retirement plan — a SEP-IRA, Solo 401(k), SIMPLE IRA, or something else — makes the most sense given how your business is structured and what you're actually earning. Starting that conversation early means the plan you choose works with your tax strategy instead of around it.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Business foundation services
 
@@ -92,7 +83,7 @@ A: Business foundation services are CPA-guided support for launching a business 
 A: We model your expected income, self-employment tax exposure, and long-term plans, whether that's bringing on partners or eventually selling. There's no single right answer. A retail shop, a real estate investor, a professional service firm, and a video production company with similar revenue can land in different structures based on how they plan to operate and grow.
 
 **Q: Do you help with retirement plan analysis for new business owners?**
-A: Yes. Once your entity structure and compensation approach are in place, we help you identify the retirement plan — SEP-IRA, Solo 401(k), SIMPLE IRA, or others — that fits your business and income. Starting that conversation early means the plan works with your tax strategy from day one rather than being bolted on later.
+A: Yes. Once your entity structure and compensation approach are in place, we help you identify the retirement plan, SEP-IRA, Solo 401(k), SIMPLE IRA, or others, that fits your business and income. Starting that conversation early means the plan works with your tax strategy from day one rather than being bolted on later.
 
 **Q: Do you help with business registration in Connecticut?**
 A: Yes. We guide new business owners through registration and licensing requirements in Connecticut, New York, and New Jersey, depending on where the business operates, so the paperwork matches the entity structure and tax setup already in place.
@@ -101,7 +92,7 @@ A: Yes. We guide new business owners through registration and licensing requirem
 A: Yes. Business foundation services are the starting point. As your business grows, you can add bookkeeping, payroll, and tax under our bundled fixed monthly fee, with everything visible in real time on one secure online platform.
 
 **Q: Do you work with video production companies and professional service providers?**
-A: Yes. We have direct experience with the entity and accounting questions that come up for video production companies, consultants, attorneys, real estate professionals, and retail business owners — industries where the structure you choose at the start has a real impact on how you bill, pay yourself, and grow.
+A: Yes. We have direct experience with the entity and accounting questions that come up for video production companies, consultants, attorneys, real estate professionals, and retail business owners, industries where the structure you choose at the start has a real impact on how you bill, pay yourself, and grow.
 
 <!-- block: cta-banner | variant: image-bg | image: new-business-owner-handshake.jpg | alt: "New business owner shaking hands with a CPA advisor" | query: "business owner handshake advisor office" -->
 ## Let's build your business on solid ground
