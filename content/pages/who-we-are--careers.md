@@ -25,13 +25,6 @@ If you're searching for accounting jobs in Westport CT, you already know the dif
 
 Open roles span bookkeeping, outsourced accounting, payroll, tax preparation, and business advisory work. Whether you're early in your career or bringing years of public accounting experience, there's a place here for people who want steady, meaningful work at a firm built to last.
 
-<!-- block: content-split | variant: image-right | image: accounting-team-collaboration.jpg | alt: "Accounting team members collaborating around a desk in office" | query: "accounting team collaborating office" -->
-## Work in a team-oriented culture that supports you
-
-Accounting can be a lonely job when you're the only person who understands a client's books. That's not how this firm operates. Multiple team members know each client well enough to step in without missing a beat, whether someone is on vacation, home sick, or simply buried during the first two weeks of April.
-
-This cross-training model means new hires aren't handed a client list and left to sink or swim. You'll shadow senior staff, ask questions without worrying about looking inexperienced, and build real working relationships with colleagues who know your caseload. For candidates weighing CPA careers in Westport, Connecticut against a role at a larger firm where departments barely talk to each other, that built-in backup is hard to overstate. Your workload doesn't disappear when you're out, and clients get the same quality of service no matter who picks up the phone. [Meet the team](/who-we-are) to see who you'd be working alongside.
-
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## What it's like to serve clients across industries
 
