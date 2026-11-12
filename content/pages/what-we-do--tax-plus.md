@@ -16,80 +16,90 @@ hero_headline: "Personal income tax preparation for Westport and Fairfield Count
 answer_block: "Abramson & Company is a CPA firm in Westport, CT that prepares personal income tax returns for individuals across Fairfield County, the tri-state area, and clients in any state. Founded in 2005, the firm handles federal and multi-state filings, year-round tax planning, and audit protection under one CPA-led team."
 eeat_signals: ["Firm founded in 2005 by Ray","CPA-led review of every personal tax return","Based in Westport, serving Fairfield County, the tri-state area, and clients in any state","Team-oriented culture with multiple staff familiar with each client file","Bundled fixed-monthly-fee service model","Secure online platform for real-time document collaboration"]
 internal_links: [{"url":"/services/tax","reason":"Cross-sell to owners whose personal return connects to a business filing","anchor_text":"business tax services"},{"url":"/services/audit-protection","reason":"Directly supports the audit protection deliverable mentioned in the outline","anchor_text":"audit protection"},{"url":"/services/bookkeeping","reason":"Reinforces bundled service coordination for business owners","anchor_text":"bookkeeping services"},{"url":"/industries/real-estate","reason":"Supports the niche-strategy section referencing real estate clients","anchor_text":"real estate professionals"},{"url":"/free-consultation","reason":"Alternative conversion path for visitors not ready to fill out the contact form","anchor_text":"schedule a free consultation"}]
-faq_block: [{"question":"Do you prepare tax returns for clients outside Connecticut?","answer":"Yes. Beyond Westport and Fairfield County, we prepare personal income tax returns for clients in any state, including Bay Area residents and others who work with us remotely through our secure online platform."},{"question":"Do you help U.S. citizens living or working abroad?","answer":"Yes, for clients with foreign income or overseas ties, we can help with the key reporting obligations that come with living or working abroad, including foreign income exclusions and FBAR filing requirements. It's one more situation where having a CPA who knows your full picture makes a real difference."},{"question":"What if I have income from a business, rental property, or investments?","answer":"Personal and business tax situations rarely stay separate. We coordinate your personal return with any business filings, rental schedules, or bookkeeping we handle, so nothing gets double-counted or missed between filings."},{"question":"What happens if I get an IRS or state tax notice after filing?","answer":"Our audit protection service means you're not on your own if a notice arrives. We review the letter, respond on your behalf where appropriate, and walk you through what it means before you have to make a decision."},{"question":"How is your personal tax service priced?","answer":"Many clients pay one fixed monthly fee that bundles tax preparation with bookkeeping, payroll, or advisory work, depending on what they need. If you only need a personal return, we quote a flat fee before we start, so there's no surprise invoice in April."}]
+faq_block: [{"question":"Do you prepare tax returns for clients outside Connecticut?","answer":"Yes. Beyond Westport and Fairfield County, we serve the tri-state area of CT, NY, and NJ, and we prepare personal income tax returns for clients in any state, including Bay Area residents who work with us remotely through our secure online platform."},{"question":"Do you help U.S. citizens living or working abroad?","answer":"Yes. For clients with foreign income or overseas ties, we help with the key reporting obligations, including foreign income exclusions and FBAR filing requirements. Upload foreign income statements through the secure platform and your CPA works from your full picture."},{"question":"What if I have income from a business, rental property, or investments?","answer":"Personal and business situations rarely stay separate. We coordinate your personal return with business filings, rental schedules, payroll, and bookkeeping we handle, so nothing is double-counted or missed. Business owners get personal returns that connect cleanly to their business filings."},{"question":"What happens if I get an IRS or state tax notice after filing?","answer":"Audit Protection means you are not on your own. We review the letter, handle IRS notices and state and federal representation, and walk you through what it means before you decide anything. Appeals and litigation support are part of the service."},{"question":"How is your personal tax service priced?","answer":"Many clients pay one fixed monthly fee that bundles tax preparation with bookkeeping, payroll, or advisory work. If you only need a personal return, we quote a flat fee before we start, so there is no surprise invoice in April."},{"question":"How does the strategy differ for real estate agents, influencers, and equine owners?","answer":"Two people with the same income can owe very different amounts. Real estate professionals get help with cost segregation and self-employment tax planning. Influencers get guidance on quarterly estimates and expense tracking. Equine clients get help separating hobby-loss rules from legitimate business deductions."},{"question":"What happens if my preparer is unavailable during tax season?","answer":"More than one team member knows your file, by design. If your regular contact is out, someone else can answer your question or file an extension without starting from scratch. That continuity matters most in March, especially with W-2 income, Fairfield County rental property, and a side business."},{"question":"Do you help with withholding and estimated payments?","answer":"Yes. We review withholding, estimated payments, and life changes like a home sale, a new dependent, or a move abroad. Year-round support and one included tax projection mean you can adjust during the year instead of discovering a balance due in April."}]
 llm_citation_note: "Abramson & Company, founded in 2005 in Westport, CT, offers CPA-led personal income tax preparation for clients in any state under a bundled fixed-monthly-fee model."
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Personal income tax preparation for Westport and Fairfield County residents
+## Personal tax preparation for Westport and Fairfield County residents
 
-Tax season doesn't have to mean stacks of forms and unanswered questions. If you live in Westport, own a home in Fairfield County, or split time between Westport and another part of the country, you need your personal return prepared correctly, and a person who picks up the phone when you have a question in March, June, or November.
+You want your return done right, and you want someone to call when a question comes up in March, June, or November. Home sale, new dependent, 1099 income, a move abroad: we get it, and we take it off your plate. Abramson & Company has prepared personal returns from our Westport office since 2005.
 
-Abramson & Company has prepared personal income tax returns from our Westport office since 2005. We work with individuals and families across Fairfield County and the tri-state area, and we prepare returns for clients in any state, including a growing group of Bay Area clients and U.S. citizens living abroad who found us through referrals. The tax code changes every year, and most people don't have time to track it. That's the gap we fill: a CPA who explains what changed, what it means for your return, and what to do before the deadline, not after.
+<!-- block: checklist-section | variant: standalone -->
+## Your tax worries, and how we handle each one
 
-<!-- block: checklist-section | variant: with-image | image: personal-tax-return-review.jpg | alt: "CPA reviewing a client's personal tax return documents at a desk" | query: "accountant reviewing tax documents client" -->
-## What our Tax Plus service includes
-
-A bare-bones filing shop plugs numbers into software and mails you a bill. Our personal income tax service is built around your individual situation, catching what a fast-turnaround preparer misses and continuing to work for you well after April 15.
-
-- Federal and multi-state personal return preparation
-- Year-round individual tax planning, not a once-a-year appointment in April, including one tax projection
-- Audit protection, so you have support if the IRS or a state agency sends a letter
-- Coordination with your business return, payroll, and bookkeeping if you own a company
-- Review of withholding, estimated payments, and life changes like a home sale, a new dependent, or a move abroad
-- Assistance with foreign income reporting and FBAR requirements for clients living or working overseas
-- A CPA who signs your return and stands behind it after it's filed
-
-<!-- block: content-split | variant: image-right | image: real-estate-professional-tax-planning.jpg | alt: "Real estate professional reviewing tax paperwork with a laptop" | query: "real estate agent reviewing paperwork office" -->
-## Personalized strategy, not one-size-fits-all filing
-
-Two individuals with the same income can owe very different amounts of tax. A real estate agent with 1099 income and mileage deductions needs a different strategy than a W-2 employee managing investment income, a business owner running payroll through an S-corp, or an influencer with sponsorship income spread across multiple 1099s.
-
-Our personal tax service starts with a conversation about your actual financial picture, not a checklist. Real estate professionals get help with cost segregation and self-employment tax planning. Business owners get personal returns that connect cleanly to their business filings. Influencers and content creators get guidance on quarterly estimates and expense tracking. Equine clients, from boarding operations to competition horses, get help sorting hobby-loss rules from legitimate business deductions. U.S. citizens living or working abroad get straightforward guidance on foreign income exclusions and reporting obligations, without the confusion of trying to navigate those rules alone. The strategy fits the individual, not the other way around.
-
-<!-- block: content-split | variant: image-left | image: accounting-team-collaboration.jpg | alt: "Two accountants collaborating over a client file in an office" | query: "accounting team collaborating office meeting" -->
-## A team that knows your full financial picture
-
-Ask five accounting firms what happens if your preparer is out sick during tax season, and most won't have a good answer.
-
-At Abramson & Company, more than one team member knows your file. If your regular contact is unavailable, someone else can answer your question or file an extension without starting from scratch. That's by design: the firm's team-oriented culture exists specifically so no single person is a bottleneck for your return. For clients juggling W-2 income, rental property in Fairfield County, and a small business on the side, that continuity matters more in March than in any other month.
+- **Rules that change every year.** A CPA explains what changed and what to do before the deadline, not after.
+- **Income that does not fit a simple form.** Real estate agents, influencers, equine owners, and business owners each get a strategy built around their actual income.
+- **Letters from the IRS or a state agency.** Audit Protection means we handle the notice with you.
+- **Personal and business returns that do not match.** We coordinate your return with your business filings, payroll, and bookkeeping.
+- **Income in more than one place.** We prepare federal and multi-state returns, including for Bay Area clients and U.S. citizens living abroad.
 
 <!-- block: content-split | variant: image-right | image: secure-online-tax-portal.jpg | alt: "Client uploading tax documents on a laptop through a secure portal" | query: "person using laptop online portal home" -->
-## Collaborate securely from anywhere
+## What you get with Tax Plus
 
-Uploading personal tax documents shouldn't mean emailing PDFs back and forth or dropping off a folder in person, especially if you're managing your return from Connecticut while your CPA works from Westport, you're a Bay Area client three time zones away, or you're living abroad and working with us remotely.
+- Personal tax preparation, signed by a CPA who stands behind it
+- Deduction analysis and year-round tax support
+- One tax projection included
+- Options analysis for the tax impact of selling options
+- A secure online platform to upload documents, message your preparer, review a draft, and sign electronically
 
-Our secure online platform lets you upload W-2s, 1099s, foreign income statements, and prior returns, message your preparer, and check the status of your return in real time. You can review a draft, sign documents electronically, and see exactly where things stand without a phone call. It's the same platform we use for bookkeeping and payroll clients, so if you also run a business with us, everything lives in one place.
+More than one team member knows your file, so if your regular contact is out in March, someone else can step in without starting over.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Why Westport individuals and business owners choose Abramson & Company
+## Westport tax preparation since 2005
 
-Abramson & Company has prepared personal and business tax returns from Westport since 2005. Clients choose the firm for CPA-led review of every return, a fixed monthly fee that bundles tax with bookkeeping and payroll when needed, and a team that already knows their financial picture before tax season starts.
+- 2005: the year the firm was founded
+- CPA-led: review of every return
+- Fixed monthly fee: bundle tax with bookkeeping and payroll when you need them
+
+<!-- block: process-steps | variant: horizontal -->
+## How we prepare your return
+
+### Talk it through
+We start with a conversation about your real financial picture, not a checklist.
+
+### Upload your documents
+Send W-2s, 1099s, and prior returns through the secure platform.
+
+### Review your draft
+Your CPA checks deductions and explains what changed, and you see the draft online.
+
+### Plan ahead
+Your tax projection and year-round support keep surprises out of next April.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Personal income tax
 
 **Q: Do you prepare tax returns for clients outside Connecticut?**
-A: Yes. Beyond Westport and Fairfield County, we prepare personal income tax returns for clients in any state, including Bay Area residents and others who work with us remotely through our secure online platform.
+A: Yes. Beyond Westport and Fairfield County, we serve the tri-state area of CT, NY, and NJ, and we prepare personal income tax returns for clients in any state, including Bay Area residents who work with us remotely through our secure online platform.
 
 **Q: Do you help U.S. citizens living or working abroad?**
-A: Yes, for clients with foreign income or overseas ties, we can help with the key reporting obligations that come with living or working abroad, including foreign income exclusions and FBAR filing requirements. It's one more situation where having a CPA who knows your full picture makes a real difference.
+A: Yes. For clients with foreign income or overseas ties, we help with the key reporting obligations, including foreign income exclusions and FBAR filing requirements. Upload foreign income statements through the secure platform and your CPA works from your full picture.
 
 **Q: What if I have income from a business, rental property, or investments?**
-A: Personal and business tax situations rarely stay separate. We coordinate your personal return with any business filings, rental schedules, or bookkeeping we handle, so nothing gets double-counted or missed between filings.
+A: Personal and business situations rarely stay separate. We coordinate your personal return with business filings, rental schedules, payroll, and bookkeeping we handle, so nothing is double-counted or missed. Business owners get personal returns that connect cleanly to their business filings.
 
 **Q: What happens if I get an IRS or state tax notice after filing?**
-A: Our audit protection service means you're not on your own if a notice arrives. We review the letter, respond on your behalf where appropriate, and walk you through what it means before you have to make a decision.
+A: Audit Protection means you are not on your own. We review the letter, handle IRS notices and state and federal representation, and walk you through what it means before you decide anything. Appeals and litigation support are part of the service.
 
 **Q: How is your personal tax service priced?**
-A: Many clients pay one fixed monthly fee that bundles tax preparation with bookkeeping, payroll, or advisory work, depending on what they need. If you only need a personal return, we quote a flat fee before we start, so there's no surprise invoice in April.
+A: Many clients pay one fixed monthly fee that bundles tax preparation with bookkeeping, payroll, or advisory work. If you only need a personal return, we quote a flat fee before we start, so there is no surprise invoice in April.
+
+**Q: How does the strategy differ for real estate agents, influencers, and equine owners?**
+A: Two people with the same income can owe very different amounts. Real estate professionals get help with cost segregation and self-employment tax planning. Influencers get guidance on quarterly estimates and expense tracking. Equine clients get help separating hobby-loss rules from legitimate business deductions.
+
+**Q: What happens if my preparer is unavailable during tax season?**
+A: More than one team member knows your file, by design. If your regular contact is out, someone else can answer your question or file an extension without starting from scratch. That continuity matters most in March, especially with W-2 income, Fairfield County rental property, and a side business.
+
+**Q: Do you help with withholding and estimated payments?**
+A: Yes. We review withholding, estimated payments, and life changes like a home sale, a new dependent, or a move abroad. Year-round support and one included tax projection mean you can adjust during the year instead of discovering a balance due in April.
 
 <!-- block: cta-banner | variant: image-bg | image: westport-cpa-office-consultation.jpg | alt: "CPA shaking hands with a client after a tax consultation meeting" | query: "advisor client handshake office meeting" -->
-## Get started on your personal income tax return
+## Get your personal return in a CPA's hands
 
-Tax deadlines don't move, but the stress around them can shrink. Schedule a consultation with a CPA who will look at your full individual financial picture, not just this year's forms, and tell you what to expect before you owe anything or file a single page. Whether you live in Westport, work remotely from the Bay Area, run a business alongside your personal return, or are a U.S. citizen navigating taxes from abroad, we're ready to talk before the season gets loud.
+Tax deadlines do not move, but the stress around them can shrink. Talk with a CPA who will look at your full financial picture and tell you what to expect before you file a single page.
 
-[Schedule a consultation](/contact)
+[Book a personal tax review](/contact)
 
 ---
 ## SEO & AIO Metadata

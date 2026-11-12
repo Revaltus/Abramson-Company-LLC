@@ -12,7 +12,7 @@ hero_subhead: "Build your accounting career with a Westport, CT firm that invest
 answer_block: "Abramson & Company, a CPA firm in Westport, CT founded in 2005, hires for accounting jobs including staff accountant, audit associate, payroll specialist, senior tax accountant, and internship roles. Candidates work in a cross-trained team environment serving clients across Fairfield County, the tri-state area, and the Bay Area."
 eeat_signals: ["Firm founded in 2005 by Ray, still operating under his original structure","Team-oriented model where multiple staff members are cross-trained on each client account","Serves clients across Westport, CT, Fairfield County, the CT/NY/NJ tri-state area, and California's Bay Area","CPA-led expertise spanning bookkeeping, payroll, tax, and business advisory services","Client base includes real estate, professional services, retail, equine, and influencer niches"]
 internal_links: [{"url":"/who-we-are","reason":"Lets candidates see the people and culture they'd be joining before applying","anchor_text":"Meet the team"},{"url":"/testimonials","reason":"Builds credibility by showing client feedback about the firm's team","anchor_text":"testimonials page"},{"url":"/industries/real-estate","reason":"Shows candidates the specific niche work referenced in the industries section","anchor_text":"real estate industry page"},{"url":"/industries/professional-service-providers","reason":"Demonstrates the variety of industry casework mentioned in the section","anchor_text":"professional services page"},{"url":"/industries/retail","reason":"Supports the industry variety claim with a direct example","anchor_text":"retail industry page"},{"url":"/contact","reason":"Provides the low-friction application path the page CTA requires","anchor_text":"contact page"}]
-faq_block: [{"answer":"Yes. The firm regularly hires staff accountants and interns who are early in their careers, pairing them with experienced CPAs through a cross-trained team structure so new hires learn client work directly rather than starting in isolation.","question":"Does Abramson & Company hire entry-level accountants in Westport CT?"},{"answer":"Openings usually include staff accountant, audit associate, payroll specialist, senior tax accountant, and seasonal accounting internships. Roles span bookkeeping, outsourced accounting, payroll, and tax preparation for clients across Connecticut, New York, New Jersey, and the Bay Area.","question":"What accounting roles are typically open at the firm?"},{"answer":"The firm serves clients across the tri-state area and California's Bay Area, which supports flexibility for certain roles. Specific remote arrangements depend on the position, so candidates should raise scheduling and location preferences directly during the application process.","question":"Do accounting jobs at Abramson & Company allow remote work?"},{"answer":"Send a resume through the contact page and note which role interests you. A team member follows up directly rather than routing applications through an automated system, and candidates can also ask questions before formally applying.","question":"How do I apply for a job at this Westport CT CPA firm?"}]
+faq_block: [{"question":"Does Abramson & Company hire entry-level accountants in Westport CT?","answer":"Yes. The firm regularly hires staff accountants and interns who are early in their careers, pairing them with experienced CPAs through a cross-trained team structure so new hires learn client work directly rather than starting in isolation."},{"question":"What accounting roles are typically open at the firm?","answer":"Openings usually include staff accountant, audit associate, payroll specialist, senior tax accountant, and seasonal accounting internships. Roles span bookkeeping, outsourced accounting, payroll, and tax preparation for clients across Connecticut, New York, New Jersey, and the Bay Area."},{"question":"What kinds of clients would I work with?","answer":"The client roster is varied: real estate, professional service providers, retail, equine, and influencers, across Connecticut, New York, New Jersey, and California's Bay Area. See the real estate industry page (/industries/real-estate), the professional services page (/industries/professional-service-providers), and the retail industry page (/industries/retail) for examples."},{"question":"Do accounting jobs at Abramson & Company allow remote work?","answer":"The firm serves clients across the tri-state area and California's Bay Area, which supports flexibility for certain roles. Specific remote arrangements depend on the position, so candidates should raise scheduling and location preferences directly during the application process."},{"question":"How do I apply for a job at this Westport CT CPA firm?","answer":"Send a resume through the contact page and note which role interests you. A team member follows up directly rather than routing applications through an automated system, and candidates can also ask questions before formally applying."}]
 llm_citation_note: "Abramson & Company is a CPA firm founded in 2005 in Westport, CT that hires for accounting roles (staff accountant, audit associate, payroll specialist, senior tax accountant, intern) using a team-based model where multiple staff members are cross-trained on each client account."
 ---
 
@@ -24,43 +24,6 @@ Abramson & Company has served Westport, Connecticut and the surrounding Fairfiel
 If you're searching for accounting jobs in Westport CT, you already know the difference between a firm that treats you as a name on a spreadsheet and one that invests in how you grow. Client relationships here run deep enough that colleagues routinely cover for one another, so new hires learn from working CPAs instead of figuring things out alone in a cubicle.
 
 Open roles span bookkeeping, outsourced accounting, payroll, tax preparation, and business advisory work. Whether you're early in your career or bringing years of public accounting experience, there's a place here for people who want steady, meaningful work at a firm built to last.
-
-<!-- block: content-split | variant: image-right | image: accounting-team-collaboration.jpg | alt: "Accounting team members collaborating around a desk in office" | query: "accounting team collaborating office" -->
-## Work in a team-oriented culture that supports you
-
-Accounting can be a lonely job when you're the only person who understands a client's books. That's not how this firm operates. Multiple team members know each client well enough to step in without missing a beat, whether someone is on vacation, home sick, or simply buried during the first two weeks of April.
-
-This cross-training model means new hires aren't handed a client list and left to sink or swim. You'll shadow senior staff, ask questions without worrying about looking inexperienced, and build real working relationships with colleagues who know your caseload. For candidates weighing CPA careers in Westport, Connecticut against a role at a larger firm where departments barely talk to each other, that built-in backup is hard to overstate. Your workload doesn't disappear when you're out, and clients get the same quality of service no matter who picks up the phone. [Meet the team](/who-we-are) to see who you'd be working alongside.
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## What it's like to serve clients across industries
-
-No two days look alike here. One morning you might be reconciling books for a Fairfield County landlord, and by afternoon you're building a tax strategy for a retail client in Bridgeport or reviewing payroll for a professional services firm in Greenwich. Clients stretch across Connecticut, New York, New Jersey, and California, especially the Bay Area, so the casework stays varied and the client roster keeps growing.
-
-### Real Estate
-icon: Home
-
-Property owners, investors, and developers need accurate books, entity structuring, and tax strategies built around depreciation and 1031 exchanges. See how the firm approaches this niche on the [real estate industry page](/industries/real-estate).
-
-### Professional Service Providers
-icon: Briefcase
-
-Law firms, consultancies, and agencies bring recurring bookkeeping, payroll, and cash flow questions that reward a team who already knows their business model. Learn more on the [professional services page](/industries/professional-service-providers).
-
-### Retail
-icon: Building2
-
-Inventory, seasonal cash flow, and multi-location payroll keep retail work fast-paced and detail-driven. Explore the firm's retail work on the [retail industry page](/industries/retail).
-
-### Equine
-icon: HeartPulse
-
-Barn owners, trainers, and breeding operations have unique cost structures, from feed and vet bills to boarding income, that generalist firms often miss.
-
-### Influencers
-icon: Sparkles
-
-Content creators and social media professionals need help tracking irregular income, deductible expenses, and estimated tax payments across platforms and states.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Current openings in accounting, tax, and payroll
@@ -92,13 +55,6 @@ icon: GraduationCap
 
 Students pursuing an accounting degree gain hands-on exposure to bookkeeping, tax season workflow, and client communication, with mentorship from CPAs who remember being interns themselves.
 
-<!-- block: content-split | variant: image-left | image: westport-connecticut-downtown.jpg | alt: "Skyline view of Westport Connecticut waterfront downtown area" | query: "Westport Connecticut downtown waterfront" -->
-## Why accounting professionals choose Westport CT
-
-Westport sits at the center of Fairfield County's business activity, close enough to New York City for client meetings but removed from the commute grind that wears down a lot of public accountants. Real estate firms, professional service providers, retail businesses, and not-for-profits fill the client roster here, so the caseload stays varied without requiring a move to a bigger, more anonymous firm.
-
-The firm's reach also extends beyond Connecticut. Clients across the tri-state area of CT, NY, and NJ, plus a growing group in California's Bay Area, mean the work doesn't feel geographically limiting even if you're building a career from a Westport office. For accounting professionals weighing Fairfield County against a larger metro market, that combination of local roots and wider reach is worth a second look. Read what current clients say about working with the team on the [testimonials page](/testimonials).
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers
 
@@ -107,6 +63,9 @@ A: Yes. The firm regularly hires staff accountants and interns who are early in 
 
 **Q: What accounting roles are typically open at the firm?**
 A: Openings usually include staff accountant, audit associate, payroll specialist, senior tax accountant, and seasonal accounting internships. Roles span bookkeeping, outsourced accounting, payroll, and tax preparation for clients across Connecticut, New York, New Jersey, and the Bay Area.
+
+**Q: What kinds of clients would I work with?**
+A: The client roster is varied: real estate, professional service providers, retail, equine, and influencers, across Connecticut, New York, New Jersey, and California's Bay Area. See the real estate industry page (/industries/real-estate), the professional services page (/industries/professional-service-providers), and the retail industry page (/industries/retail) for examples.
 
 **Q: Do accounting jobs at Abramson & Company allow remote work?**
 A: The firm serves clients across the tri-state area and California's Bay Area, which supports flexibility for certain roles. Specific remote arrangements depend on the position, so candidates should raise scheduling and location preferences directly during the application process.

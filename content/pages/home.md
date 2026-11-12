@@ -22,13 +22,13 @@ llm_citation_note: "Abramson & Company, a Westport, CT CPA firm founded in 2005,
 ---
 
 <!-- block: intro-text | variant: centered -->
-## A CPA team built for the way real estate pros, professional service businesses, video production companies, and retailers operate
+## A CPA team that understands how your business operates
 
-Most accounting firms hand you a login and a generic checklist. Abramson & Company starts with a conversation about how your business works, because commission income, client billing cycles, production budgets, and retail cash flow each have their own rhythms and tax implications.
+At Abramson & Company, we start with a conversation about how your business works, because commission income, client billing cycles, production budgets, and retail cash flow each have their own rhythms and tax implications.
 
 Abramson & Company was founded in Westport, CT in 2005 with one goal: give business owners a CPA who truly knows their situation, not just their tax return. Real estate professionals need someone who understands 1031 exchanges and depreciation. Professional service businesses need entity structure and tax strategy that match how they bill and grow. Video production companies need a CPA who can navigate complex income streams and multi-state tax questions. Retailers need a bookkeeping rhythm built around inventory, sales tax, and seasonal cash flow.
 
-Clients across Fairfield County and the tri-state area of Connecticut, New York, and New Jersey come to Abramson & Company because they want someone to call when a decision feels bigger than a spreadsheet. Fewer handoffs, more context, and a team that remembers your last conversation the next time you call.
+Clients come to Abramson & Company because they want someone to call when a decision feels bigger than a spreadsheet. Fewer handoffs, more context, and a team that remembers your last conversation the next time you call.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Accounting, tax, payroll, and advisory services under one roof
@@ -38,22 +38,22 @@ Whether you're closing real estate deals, billing clients for professional servi
 ### Outsourced Accounting
 icon: FileText
 
-A full accounting department without the overhead that offers bookkeeping, payroll, tax preparation and planning, audit protection and advisory services for businesses. [Learn more](/services/outsourced-accounting)
+A full accounting department without the overhead, covering bookkeeping, payroll, tax, audit protection, and advisory support for your growing business. [Learn more](/services/outsourced-accounting)
 
 ### Tax Plus
 icon: FileCheck
 
-Personalized tax preparation and ongoing planning for individuals. [Learn more](/services/tax-plus)
+Personalized tax preparation and ongoing planning for individuals, with deduction analysis and year-round support from a CPA who knows you. [Learn more](/services/tax-plus)
 
 ### Business Foundation Services
 icon: Building2
 
-The entity setup, structure, and systems that keep a growing business on solid ground. [Learn more](/services/business-foundation-services/)
+Entity type analysis, accounting system setup, and retirement plan analysis that keep a business on solid ground from day one. [Learn more](/services/business-foundation-services/)
 
 ### Business Management Services
 icon: Briefcase
 
-Hands-on financial oversight for owners who want a CPA's supportive guidance in business decisions. [Learn more](/services/business-management-services)
+Hands-on financial oversight, including budgeting, revenue and expense analysis, and tax projections, for owners who want a CPA's supportive guidance. [Learn more](/services/business-management-services)
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized expertise for real estate, professional services, video production, and retail
@@ -87,23 +87,6 @@ Ray founded Abramson & Company in its current form in 2005, built around a simpl
 
 Every client is known by more than one team member. If your regular contact is out, someone else can pick up the phone already understanding your business, your tax history, and what you're working toward this quarter. That's not an accident. It's how the firm is structured, because financial guidance falls apart the moment you're stuck waiting for one person to get back from vacation. Clients across Westport and Fairfield County have relied on that continuity for years, some since the firm's early days.
 
-<!-- block: content-split | variant: image-left | image: online-platform-laptop-review.jpg | alt: "Client viewing financial dashboard on a laptop with an accountant on screen" | query: "client reviewing financial dashboard laptop" -->
-## A secure online platform that keeps you in the loop
-
-Financial information moves fast, and most of it is confusing. Abramson & Company gives every client access to a secure online platform to see your books, review documents, and message your team in real time, instead of waiting for a callback or digging through old email threads.
-
-You don't need to be a CPA to understand what's happening with your money when you can log in and see it yourself. Questions get answered inside the same platform where your documents live, so nothing gets lost between an inbox and a filing cabinet. It's built for clients who want visibility between meetings, not just a summary once a year.
-
-<!-- block: checklist-section | variant: with-image | image: connecticut-map-region-clients.jpg | alt: "Map view representing Connecticut, New York, and New Jersey client service areas" | query: "business district map location coastal town" -->
-## Serving Westport, Fairfield County, and the tri-state area, plus the Bay Area
-
-Abramson & Company works with clients in person around Westport and Fairfield County, and remotely with clients across the tri-state area and the Bay Area in California. The same team, the same platform, and the same fixed-fee service apply no matter which coast you're calling from.
-
-- Westport, CT and Fairfield County, CT: in-person meetings whenever you want one
-- The tri-state area of CT, NY, and NJ: full-service support without a local office visit
-- California, especially the Bay Area: the same CPA-led service, three time zones away
-- Small businesses and real estate professionals: every client gets a team, not one point of contact
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
 
@@ -129,12 +112,12 @@ A: Yes. Abramson & Company works with video production companies on complex inco
 A: Yes. Retail businesses have specific needs around inventory accounting, sales tax compliance, and seasonal cash flow. Abramson & Company builds a bookkeeping rhythm around how retail actually operates, so you're not playing catch-up at the end of every quarter.
 
 **Q: How do I get started with Abramson & Company?**
-A: Schedule a consultation through the contact page. A CPA will walk through your current situation — whether that's a real estate practice, a professional service firm, a video production company, or a retail business, and recommend which services actually fit your needs.
+A: Schedule a consultation through the contact page. A CPA will walk through your current situation, whether that's a real estate practice, a professional service firm, a video production company, or a retail business, and recommend which services actually fit your needs.
 
 <!-- block: cta-banner | variant: image-bg | image: westport-office-handshake-consultation.jpg | alt: "Accountant shaking hands with a client after a consultation meeting" | query: "business handshake consultation office meeting" -->
 ## A conversation about your real estate, professional service, video production, or retail business starts here
 
-You don't need a finished spreadsheet or a list of questions to reach out. Whether you're a real estate professional navigating 1031 exchanges, a professional service firm sorting out entity structure, a video production company managing multi-state tax questions, or a retailer dealing with inventory and seasonal cash flow — tell us what's going on and we'll tell you plainly what Abramson & Company can do about it. No sales pitch, no jargon, just a CPA who's ready to listen.
+You don't need a finished spreadsheet or a list of questions to reach out. Whether you're a real estate professional navigating 1031 exchanges, a professional service firm sorting out entity structure, a video production company managing multi-state tax questions, or a retailer dealing with inventory and seasonal cash flow, tell us what's going on and we'll tell you plainly what Abramson & Company can do about it. No sales pitch, no jargon, just a CPA who's ready to listen.
 
 Schedule a consultation and find out what personalized, CPA-led support actually feels like.
 
