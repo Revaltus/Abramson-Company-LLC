@@ -44,7 +44,7 @@ If you've been getting by on a part-time bookkeeper and hope, this is the differ
 <!-- block: content-split | variant: image-left | image: fixed-fee-billing.jpg | alt: "Business owner reviewing a monthly invoice statement at a desk" | query: "business owner reviewing invoice statement" -->
 ## How our fixed monthly bundle keeps costs predictable
 
-Traditional accounting billing punishes growth. The more transactions you have — or the more entities, properties, projects, or locations you add — the bigger your hourly invoice, and the less predictable your budget becomes. We bundle bookkeeping, reconciliations, financial reporting, and CPA review into one fixed monthly fee, set in advance and tied to the scope of your business rather than the clock.
+Traditional accounting billing punishes growth. The more transactions you have, or the more entities, properties, projects, or locations you add, the bigger your hourly invoice, and the less predictable your budget becomes. We bundle bookkeeping, reconciliations, financial reporting, and CPA review into one fixed monthly fee, set in advance and tied to the scope of your business rather than the clock.
 
 That means no surprise invoices after a busy quarter, no line-item arguing over which task counted as "extra," and no guessing what next month's bill looks like. Real estate investors managing multiple entities, professional service firms with project-based billing, video production companies with irregular income, and retailers navigating seasonal swings all tell us this predictability alone makes budgeting easier than anything their previous bookkeeper offered. Ask about specific bundle sizes when you schedule a consultation, since the right package depends on your transaction volume and how many entities you run.
 
@@ -63,7 +63,7 @@ Abramson & Company has served Westport and Fairfield County since 2005, with cli
 ### Real Estate
 icon: Home
 
-Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities — not a once-a-year summary. We track income and expenses at the entity level, so you always know which properties are performing and which need attention. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
+Property managers and investors need cash flow reporting that keeps pace with closings, draws, and multiple entities, not a once-a-year summary. We track income and expenses at the entity level, so you always know which properties are performing and which need attention. See our dedicated [real estate accounting services](/industries/real-estate) for specifics.
 
 ### Professional Service Providers
 icon: Briefcase
@@ -78,14 +78,7 @@ Production companies juggle irregular income, multi-state tax exposure, and proj
 ### Retail
 icon: Building2
 
-Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings demand a bookkeeping rhythm built around how [retail businesses](/industries/retail) actually operate — not a generic monthly close that ignores your busy season or your shrinkage.
-
-<!-- block: content-split | variant: image-left | image: accounting-team-meeting.jpg | alt: "Two accounting team members discussing a client file together" | query: "colleagues discussing client file office" -->
-## A team that knows your business, not just your books
-
-Software can categorize a transaction. It can't tell you why your margins slipped in March or whether now's the time to hire. That takes someone who actually knows your business.
-
-Our team is built so more than one person understands your account well enough to answer a real question, not just look up an account number. If your usual contact is out, someone else on the team can still tell you where things stand. That continuity matters when you need an answer today, not next Tuesday. It's the reassurance clients tell us they were missing before they called us: someone to talk to, not just a login and a hope.
+Inventory tracking, point-of-sale reconciliation, and seasonal cash flow swings demand a bookkeeping rhythm built around how [retail businesses](/industries/retail) actually operate, not a generic monthly close that ignores your busy season or your shrinkage.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced accounting
