@@ -41,6 +41,29 @@ An outsourced accounting engagement with our firm covers the full cycle of finan
 
 If you've been getting by on a part-time bookkeeper and hope, this is the difference between reactive numbers and numbers you can actually plan around.
 
+<!-- block: feature-grid | variant: 4-col -->
+## Four services, one outsourced accounting team
+
+### Bookkeeping
+icon: BookOpen
+
+Transaction classification, expense tracking, bill payment and invoicing, and clear reporting.
+
+### Payroll
+icon: Users
+
+Payroll processing, payroll tax filings, W-2 and 1099 processing, and pension and garnishment remittance.
+
+### Tax
+icon: FileText
+
+Tax preparation, tax planning, electronic filing, and year-round support.
+
+### Audit Protection
+icon: ShieldCheck
+
+IRS notice handling, state and federal representation, and appeals and litigation support.
+
 <!-- block: content-split | variant: image-left | image: fixed-fee-billing.jpg | alt: "Business owner reviewing a monthly invoice statement at a desk" | query: "business owner reviewing invoice statement" -->
 ## How our fixed monthly bundle keeps costs predictable
 
