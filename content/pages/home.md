@@ -38,22 +38,22 @@ Whether you're closing real estate deals, billing clients for professional servi
 ### Outsourced Accounting
 icon: FileText
 
-A full accounting department without the overhead that offers bookkeeping, payroll, tax preparation and planning, audit protection and advisory services for businesses. [Learn more](/services/outsourced-accounting)
+A full accounting department without the overhead, covering bookkeeping, payroll, tax, audit protection, and advisory support for your growing business. [Learn more](/services/outsourced-accounting)
 
 ### Tax Plus
 icon: FileCheck
 
-Personalized tax preparation and ongoing planning for individuals. [Learn more](/services/tax-plus)
+Personalized tax preparation and ongoing planning for individuals, with deduction analysis and year-round support from a CPA who knows you. [Learn more](/services/tax-plus)
 
 ### Business Foundation Services
 icon: Building2
 
-The entity setup, structure, and systems that keep a growing business on solid ground. [Learn more](/services/business-foundation-services/)
+Entity type analysis, accounting system setup, and retirement plan analysis that keep a business on solid ground from day one. [Learn more](/services/business-foundation-services/)
 
 ### Business Management Services
 icon: Briefcase
 
-Hands-on financial oversight for owners who want a CPA's supportive guidance in business decisions. [Learn more](/services/business-management-services)
+Hands-on financial oversight, including budgeting, revenue and expense analysis, and tax projections, for owners who want a CPA's supportive guidance. [Learn more](/services/business-management-services)
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Specialized expertise for real estate, professional services, video production, and retail
@@ -129,12 +129,12 @@ A: Yes. Abramson & Company works with video production companies on complex inco
 A: Yes. Retail businesses have specific needs around inventory accounting, sales tax compliance, and seasonal cash flow. Abramson & Company builds a bookkeeping rhythm around how retail actually operates, so you're not playing catch-up at the end of every quarter.
 
 **Q: How do I get started with Abramson & Company?**
-A: Schedule a consultation through the contact page. A CPA will walk through your current situation — whether that's a real estate practice, a professional service firm, a video production company, or a retail business, and recommend which services actually fit your needs.
+A: Schedule a consultation through the contact page. A CPA will walk through your current situation, whether that's a real estate practice, a professional service firm, a video production company, or a retail business, and recommend which services actually fit your needs.
 
 <!-- block: cta-banner | variant: image-bg | image: westport-office-handshake-consultation.jpg | alt: "Accountant shaking hands with a client after a consultation meeting" | query: "business handshake consultation office meeting" -->
 ## A conversation about your real estate, professional service, video production, or retail business starts here
 
-You don't need a finished spreadsheet or a list of questions to reach out. Whether you're a real estate professional navigating 1031 exchanges, a professional service firm sorting out entity structure, a video production company managing multi-state tax questions, or a retailer dealing with inventory and seasonal cash flow — tell us what's going on and we'll tell you plainly what Abramson & Company can do about it. No sales pitch, no jargon, just a CPA who's ready to listen.
+You don't need a finished spreadsheet or a list of questions to reach out. Whether you're a real estate professional navigating 1031 exchanges, a professional service firm sorting out entity structure, a video production company managing multi-state tax questions, or a retailer dealing with inventory and seasonal cash flow, tell us what's going on and we'll tell you plainly what Abramson & Company can do about it. No sales pitch, no jargon, just a CPA who's ready to listen.
 
 Schedule a consultation and find out what personalized, CPA-led support actually feels like.
 
