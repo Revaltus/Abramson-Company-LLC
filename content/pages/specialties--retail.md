@@ -60,7 +60,7 @@ Deciding whether to open a second location, buy inventory ahead of a price incre
 Abramson's secure online platform gives you real-time access to sales trends, margin by category, and cash position, along with direct messaging to your accounting team when a number doesn't look right. [Business management services](/services/business-management-services) layer on top for owners weighing a lease renewal, a new POS system, or a hiring decision, turning bookkeeping data into an actual growth plan instead of a spreadsheet nobody opens.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Why Westport retailers choose Abramson & Company
+## Why Westport choose Abramson & Company
 
 Retail owners in Westport and across Fairfield County need an accounting relationship that holds up during the busiest weeks of the year, not just tax season.
 
