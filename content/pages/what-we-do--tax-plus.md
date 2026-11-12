@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "westport-personal-tax-consultation.jpg"
 hero_image_alt: "CPA discussing personal tax return with a client in a Westport office"
 hero_subhead: "Straight answers on your personal tax return from a CPA who already knows Fairfield County, tri-state, and cross-border tax rules"
-hero_headline: "Personal income tax preparation for Westport and Fairfield County residents"
+hero_headline: "Personal income tax preparation"
 answer_block: "Abramson & Company is a CPA firm in Westport, CT that prepares personal income tax returns for individuals across Fairfield County, the tri-state area, and clients in any state. Founded in 2005, the firm handles federal and multi-state filings, year-round tax planning, and audit protection under one CPA-led team."
 eeat_signals: ["Firm founded in 2005 by Ray","CPA-led review of every personal tax return","Based in Westport, serving Fairfield County, the tri-state area, and clients in any state","Team-oriented culture with multiple staff familiar with each client file","Bundled fixed-monthly-fee service model","Secure online platform for real-time document collaboration"]
 internal_links: [{"url":"/services/tax","reason":"Cross-sell to owners whose personal return connects to a business filing","anchor_text":"business tax services"},{"url":"/services/audit-protection","reason":"Directly supports the audit protection deliverable mentioned in the outline","anchor_text":"audit protection"},{"url":"/services/bookkeeping","reason":"Reinforces bundled service coordination for business owners","anchor_text":"bookkeeping services"},{"url":"/industries/real-estate","reason":"Supports the niche-strategy section referencing real estate clients","anchor_text":"real estate professionals"},{"url":"/free-consultation","reason":"Alternative conversion path for visitors not ready to fill out the contact form","anchor_text":"schedule a free consultation"}]
@@ -21,7 +21,7 @@ llm_citation_note: "Abramson & Company, founded in 2005 in Westport, CT, offers 
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Personal tax preparation for Westport and Fairfield County residents
+## Personal income tax preparation for individuals
 
 You want your return done right, and you want someone to call when a question comes up in March, June, or November. Home sale, new dependent, 1099 income, a move abroad: we get it, and we take it off your plate. Abramson & Company has prepared personal returns from our Westport office since 2005.
 

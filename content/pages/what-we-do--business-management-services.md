@@ -54,6 +54,21 @@ Expertise across bookkeeping, payroll, tax, and advisory
 ### 3 states plus California
 CT, NY, and NJ, and the Bay Area
 
+<!-- block: industry-cards | variant: 4-col | theme: ink -->
+## Industries we serve
+
+### Real Estate
+Entity-level and property-level reporting for [real estate](/industries/real-estate) professionals.
+
+### Professional Service Providers
+[Law firms, consultancies, and agencies](/industries/professional-service-providers) get help with payroll, partner distributions, and tax planning.
+
+### Retail
+Current numbers on cost of goods, inventory, and vendor terms for [retail](/industries/retail) owners.
+
+### Video Production
+Reporting built around project timelines and cost tracking.
+
 <!-- block: process-steps | variant: horizontal -->
 ## How we get started
 
