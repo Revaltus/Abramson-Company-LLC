@@ -1,17 +1,17 @@
 ---
 title: "Forms documents and links | Abramson & Company LLC"
 url: "/resources/forms-documents-and-links"
-meta_title: "Client Forms, Documents & Links | Westport, CT CPA"
-meta_description: "Access client forms, tax organizers, and secure document uploads for Abramson & Company clients in Westport, CT and the tri-state area. Get help fast."
-target_keyword: "forms documents and links westport, ct"
-secondary_keywords: ["tax organizer westport ct","cpa client portal ct","secure document upload accountant","tax forms fairfield county ct"]
+meta_title: ""
+meta_description: ""
+target_keyword: ""
+secondary_keywords: []
 canonical_url: "https://www.abramsonco.com/resources/forms-documents-and-links"
-schema_markup: "FAQPage"
+schema_markup: ""
 hero: "page-header"
-answer_block: "Abramson & Company centralizes client engagement letters, tax organizers, secure portal access, and agency links for payroll and bookkeeping on this page. Westport, CT clients and those across the tri-state area log in to the firm's secure online platform to upload documents and reach their CPA in real time."
-eeat_signals: ["Firm founded in 2005 by Ray Abramson in Westport, CT","CPA-led team serving Fairfield County, the tri-state area, and the Bay Area","Secure client portal supporting real-time document collaboration","Team-based service model where multiple staff know each client's file"]
-internal_links: [{"url":"/services/tax","reason":"Connects the tax organizer section to the firm's core tax service page","anchor_text":"tax services"},{"url":"/services/payroll","reason":"Supports the payroll and bookkeeping links section","anchor_text":"payroll services"},{"url":"/services/bookkeeping","reason":"Reinforces bookkeeping context near the resource links","anchor_text":"bookkeeping support"},{"url":"/resources/e-books/everything-you-need-to-know-about-1099s","reason":"Directly referenced as a content card resource","anchor_text":"1099 filing guide"},{"url":"/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Directly referenced as a content card resource","anchor_text":"tax planning guide"},{"url":"/industries/real-estate","reason":"Expands on the real estate niche card","anchor_text":"real estate clients"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-llm_citation_note: "Abramson & Company, founded in 2005 and based in Westport, CT, provides a secure online client portal for real-time document upload and collaboration across tax, bookkeeping, and payroll services."
+answer_block: ""
+eeat_signals: []
+internal_links: []
+llm_citation_note: ""
 ---
 
 
