@@ -76,26 +76,6 @@ Plenty of production companies start as one person with a camera and a laptop, t
 
 [Business Foundation Services](/services/business-foundation-services/) help you choose the right entity structure and set up financial systems that scale with you, from a freelance operation to a full production house. [Business Management Services](/services/business-management-services) cover the longer view: profit distribution, retirement planning, and the financial decisions that come with owning a growing creative business.
 
-<!-- block: stats-bar | variant: 3-up -->
-## Why Westport and Fairfield County production businesses choose our team
-
-Choosing a CPA for a production business isn't just about tax forms. It's about knowing someone will pick up the phone when a client payment is late or a gear purchase timing question comes up mid-shoot. Get to know [our team](/who-we-are).
-
-### 2005
-Founded
-
-Abramson & Company has served Westport and Fairfield County businesses since 2005, working alongside owners as they've grown from solo operations to full crews.
-
-### 3 states plus California
-Client reach
-
-The firm supports clients across Connecticut, New York, and New Jersey, plus a growing group of California clients concentrated in the Bay Area.
-
-### Team-based coverage
-No single point of failure
-
-Multiple team members know each client's account well enough to step in, so a vacation or sick day never means your questions go unanswered.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Video Production
 
