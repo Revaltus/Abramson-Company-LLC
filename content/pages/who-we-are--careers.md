@@ -55,13 +55,6 @@ icon: GraduationCap
 
 Students pursuing an accounting degree gain hands-on exposure to bookkeeping, tax season workflow, and client communication, with mentorship from CPAs who remember being interns themselves.
 
-<!-- block: content-split | variant: image-left | image: westport-connecticut-downtown.jpg | alt: "Skyline view of Westport Connecticut waterfront downtown area" | query: "Westport Connecticut downtown waterfront" -->
-## Why accounting professionals choose Westport CT
-
-Westport sits at the center of Fairfield County's business activity, close enough to New York City for client meetings but removed from the commute grind that wears down a lot of public accountants. Real estate firms, professional service providers, retail businesses, and not-for-profits fill the client roster here, so the caseload stays varied without requiring a move to a bigger, more anonymous firm.
-
-The firm's reach also extends beyond Connecticut. Clients across the tri-state area of CT, NY, and NJ, plus a growing group in California's Bay Area, mean the work doesn't feel geographically limiting even if you're building a career from a Westport office. For accounting professionals weighing Fairfield County against a larger metro market, that combination of local roots and wider reach is worth a second look. Read what current clients say about working with the team on the [testimonials page](/testimonials).
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers
 
