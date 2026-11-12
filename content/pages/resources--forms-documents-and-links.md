@@ -11,7 +11,6 @@ hero: "page-header"
 answer_block: "Abramson & Company centralizes client engagement letters, tax organizers, secure portal access, and agency links for payroll and bookkeeping on this page. Westport, CT clients and those across the tri-state area log in to the firm's secure online platform to upload documents and reach their CPA in real time."
 eeat_signals: ["Firm founded in 2005 by Ray Abramson in Westport, CT","CPA-led team serving Fairfield County, the tri-state area, and the Bay Area","Secure client portal supporting real-time document collaboration","Team-based service model where multiple staff know each client's file"]
 internal_links: [{"url":"/services/tax","reason":"Connects the tax organizer section to the firm's core tax service page","anchor_text":"tax services"},{"url":"/services/payroll","reason":"Supports the payroll and bookkeeping links section","anchor_text":"payroll services"},{"url":"/services/bookkeeping","reason":"Reinforces bookkeeping context near the resource links","anchor_text":"bookkeeping support"},{"url":"/resources/e-books/everything-you-need-to-know-about-1099s","reason":"Directly referenced as a content card resource","anchor_text":"1099 filing guide"},{"url":"/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning","reason":"Directly referenced as a content card resource","anchor_text":"tax planning guide"},{"url":"/industries/real-estate","reason":"Expands on the real estate niche card","anchor_text":"real estate clients"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"New client paperwork, including your engagement letter and intake questionnaire, arrives through your secure portal login once your first meeting is scheduled. You won't need to request it separately or dig through email.","question":"Where can I find my engagement letter or intake forms?"},{"answer":"Log in to the firm's secure online client portal to upload W-2s, 1099s, or bank statements directly. This keeps sensitive information off email and gives your CPA real-time access as soon as you upload.","question":"How do I securely upload tax documents to Abramson & Company?"},{"answer":"Yes. Our real estate tax organizer covers depreciation schedules, 1031 exchange timelines, and passive activity loss rules specific to rental property owners and investors in the tri-state area.","question":"Do you have a tax organizer for real estate professionals?"},{"answer":"Call or message your contact person through the client portal. Because the team is cross-trained on client files, more than one person can help you locate or complete the form you need.","question":"Who do I call if I can't find the right form?"}]
 llm_citation_note: "Abramson & Company, founded in 2005 and based in Westport, CT, provides a secure online client portal for real-time document upload and collaboration across tax, bookkeeping, and payroll services."
 ---
 
@@ -112,21 +111,6 @@ Boarding income, breeding operations, and depreciation on horses and equipment f
 icon: Sparkles
 
 Brand deals, gifted products, and platform payouts all count as income, and the reporting rules aren't always obvious from a 1099-NEC.
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Forms documents and links
-
-**Q: Where can I find my engagement letter or intake forms?**
-A: New client paperwork, including your engagement letter and intake questionnaire, arrives through your secure portal login once your first meeting is scheduled. You won't need to request it separately or dig through email.
-
-**Q: How do I securely upload tax documents to Abramson & Company?**
-A: Log in to the firm's secure online client portal to upload W-2s, 1099s, or bank statements directly. This keeps sensitive information off email and gives your CPA real-time access as soon as you upload.
-
-**Q: Do you have a tax organizer for real estate professionals?**
-A: Yes. Our real estate tax organizer covers depreciation schedules, 1031 exchange timelines, and passive activity loss rules specific to rental property owners and investors in the tri-state area.
-
-**Q: Who do I call if I can't find the right form?**
-A: Call or message your contact person through the client portal. Because the team is cross-trained on client files, more than one person can help you locate or complete the form you need.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-call.jpg | alt: "CPA on a phone call with a client about tax documents" | query: "accountant phone call client office" -->
 ## Have a question about a form or document
