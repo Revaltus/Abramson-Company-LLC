@@ -21,71 +21,6 @@ llm_citation_note: "Abramson & Company is a CPA firm founded in 2005, based in W
 
 Reaching out to a CPA firm shouldn't feel like one more task on your to-do list. Ray started this firm in 2005 because business owners and families in Westport needed a real person to call when tax season, payroll, or a tricky financial decision felt overwhelming. That's still how we work today. Every team member knows enough about your situation to pick up the phone and help, so you're never stuck waiting for the one person who "handles your account." Send a message, call, or stop by our Westport office. We'll take it from there.
 
-<!-- block: content-prose -->
-## Reach our Westport team directly
-
-Our office sits in Westport, CT, convenient to clients throughout Fairfield County and the wider tri-state area of Connecticut, New York, and New Jersey. Call during business hours if you'd rather talk through your situation than type it out, or send an email if that fits your day better. Prefer to meet in person? Stop by the office; we're glad to sit down and walk through bookkeeping, payroll, tax, or advisory questions face to face. However you reach out, a member of our team, not a call center, responds.
-
-<!-- block: contact-info -->
-## How to Reach Us
-
-<!-- block: map -->
-
-<!-- block: cta-banner | variant: color-bg -->
-## Send us a message
-
-The form on this page asks for the basics: your name, email, phone number, which service you're interested in (bookkeeping, tax, payroll, or advisory), and a short message about what's on your mind. That's it. No lengthy questionnaires, no account setup. Once you submit it, an actual person on our team reads it and replies, usually within one business day, not an autoresponder that leaves you guessing. If you'd rather skip ahead and get a time on the calendar, [schedule a consultation](/free-consultation) and we'll take it from there.
-
-<!-- block: content-split | variant: image-right | image: remote-client-video-call.jpg | alt: "Accountant on a video call with a remote client using a laptop" | query: "remote video call accountant client" -->
-## Serving clients near and far
-
-Most of our clients are in Westport, CT and across Fairfield County, but the firm's reach goes further. We work with real estate professionals, retailers, and professional service providers throughout the tri-state area of Connecticut, New York, and New Jersey, plus a growing group of clients in California, especially the Bay Area. Distance doesn't change how closely we work with you. Our secure online platform lets you upload documents, review financials, and message your team in real time, whether you're five minutes from our office or three time zones away. Bookkeeping, payroll, tax, and business advisory support come through the same personal relationship, just without the drive.
-
-<!-- block: process-steps | variant: vertical -->
-## What to expect when you reach out
-
-### You send your message
-We read every inquiry personally, no automated triage. Expect a reply within one business day.
-
-### We schedule a short call
-A brief conversation lets us understand your situation, whether it's a business just starting out or a return that's overdue.
-
-### You get a plan, not a pitch
-We outline what we'd do, how the bundled monthly fee works, and what to expect before you commit to anything.
-
-### Onboarding starts on your schedule
-Once you're ready, we set up your access to our secure online platform and introduce you to your team.
-
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Trusted by businesses across every industry
-
-Abramson & Company works with clients across a handful of industries where the accounting questions get specific fast. CPA-led teams handle the bookkeeping, tax, and advisory work so you can focus on running the business.
-
-### Real Estate
-icon: Building
-
-Agents, brokers, and investors count on us for entity structuring, 1031 guidance, and bookkeeping built around commission cycles.
-
-### Professional Service Providers
-icon: Briefcase
-
-Law firms, consultants, and agencies get payroll, tax planning, and advisory support built around billable hours and client trust accounts.
-
-### Retail
-icon: CreditCard
-
-Inventory, sales tax, and seasonal cash flow get easier to manage with bookkeeping that matches how retail actually moves.
-
-### Equine
-icon: HeartPulse
-
-Boarding, breeding, and training operations get accounting that understands the industry's unusual mix of livestock, land, and labor costs.
-
-### Influencers
-icon: Sparkles
-
-Content creators get help sorting brand deals, 1099 income, and quarterly estimates before tax season turns into a scramble.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Contact
 
@@ -101,10 +36,6 @@ A: Share your name, contact information, which service you're interested in, suc
 **Q: Can I schedule a consultation instead of filling out the form?**
 A: Yes. If you'd rather skip ahead and set a time to talk, you can schedule a consultation directly, and a CPA-led team member will follow up to confirm details and next steps.
 
-<!-- block: form | variant: contact -->
-## Ready to reduce your financial stress
-
-You don't need to have every question figured out before you reach out. Most people who contact us are juggling a business, a family, or both, and just need someone who'll pick up the phone. Fill out the form below, or [schedule a consultation](/contact), and we'll take it from there. That's the point of working with a firm this size: you get answers from people who already know your name.
 
 ---
 ## SEO & AIO Metadata
