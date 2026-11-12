@@ -53,11 +53,11 @@ We walk through the tax consequences of each option with you, not at you. That m
 
 ### Entity type analysis
 
-We compare LLC, S-corp, C-corp, and other structures against your tax picture, how you plan to pay yourself, and your long-term goals. [Learn more about entity type analysis](/services/entity-type-analysis).
+We compare LLC, S-corp, C-corp, and other structures against your tax picture, how you plan to pay yourself, and your long-term goals.
 
 ### Accounting system setup
 
-We build a bookkeeping structure that fits your business instead of a generic template, so bookkeeping, payroll, and tax prep run smoothly from day one. [Learn more about accounting system setup](/services/accounting-system-setup).
+We build a bookkeeping structure that fits your business instead of a generic template, so bookkeeping, payroll, and tax prep run smoothly from day one.
 
 ### Retirement plan analysis
 
