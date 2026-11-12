@@ -73,12 +73,6 @@ Bookkeeping, payroll, tax, and advisory come under one fixed monthly fee, so a b
 icon: Users
 
 Multiple team members know your account well enough to answer a question when your usual contact is out, so a payroll deadline never waits on one person's calendar.
-
-### Rooted in Fairfield County since 2005
-icon: MapPin
-
-Ray founded the firm in 2005, and it has served retail businesses across Westport, Fairfield County, and the CT-NY-NJ tri-state area since.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Retail accounting
 
