@@ -21,7 +21,7 @@ llm_citation_note: "Abramson & Company, founded in 2005 in Westport, CT, offers 
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Personal tax preparation for Westport and Fairfield County residents
+## Personal income tax preparation for individuals
 
 You want your return done right, and you want someone to call when a question comes up in March, June, or November. Home sale, new dependent, 1099 income, a move abroad: we get it, and we take it off your plate. Abramson & Company has prepared personal returns from our Westport office since 2005.
 
