@@ -4,54 +4,54 @@
 @theme {
   /* Palette → shadcn semantic CSS variables (HSL space-separated).
    * Surface tokens use the AA-corrected backgrounds (see ensureContrast). */
-  --color-primary: hsl(340 53% 24%);
-  --color-primary-foreground: hsl(20 50% 98%);
-  --color-secondary: hsl(9 39% 93%);
-  --color-secondary-foreground: hsl(344 26% 11%);
-  --color-accent: hsl(172 35% 75%);
-  --color-accent-foreground: hsl(344 26% 11%);
-  --color-background: hsl(20 50% 98%);
-  --color-foreground: hsl(344 26% 11%);
-  --color-muted: hsl(18 52% 95%);
-  --color-muted-foreground: hsl(344 26% 40%);
-  --color-card: hsl(20 50% 98%);
-  --color-card-foreground: hsl(344 26% 11%);
-  --color-popover: hsl(20 50% 98%);
-  --color-popover-foreground: hsl(344 26% 11%);
-  --color-border: hsl(19 49% 90%);
-  --color-input: hsl(19 49% 90%);
-  --color-ring: hsl(177 83% 26%);
+  --color-primary: hsl(318 43% 24%);
+  --color-primary-foreground: hsl(33 100% 98%);
+  --color-secondary: hsl(14 39% 94%);
+  --color-secondary-foreground: hsl(351 24% 11%);
+  --color-accent: hsl(44 83% 75%);
+  --color-accent-foreground: hsl(351 24% 11%);
+  --color-background: hsl(33 100% 98%);
+  --color-foreground: hsl(351 24% 11%);
+  --color-muted: hsl(35 100% 95%);
+  --color-muted-foreground: hsl(352 25% 40%);
+  --color-card: hsl(33 100% 98%);
+  --color-card-foreground: hsl(351 24% 11%);
+  --color-popover: hsl(33 100% 98%);
+  --color-popover-foreground: hsl(351 24% 11%);
+  --color-border: hsl(33 100% 90%);
+  --color-input: hsl(33 100% 90%);
+  --color-ring: hsl(32 100% 33%);
   --color-destructive: hsl(0 84% 60%);
-  --color-destructive-foreground: hsl(20 50% 98%);
+  --color-destructive-foreground: hsl(33 100% 98%);
 
   /* Custom brand tokens — used directly by block components via var() */
-  --color-action: #0b7a75;
-  --color-action-foreground: #fcf8f6;
+  --color-action: #a85a00;
+  --color-action-foreground: #fffbf6;
   /* Action colour for SMALL text, AA-corrected (lightness only) against the
    * rendered surfaces it sits on: -text on the canvas (background, muted,
    * card), -text-tint on the 10-15% action-tint badges, -on-primary / -on-ink
    * in those sections (globals.css re-scopes -text there; -text-canvas keeps
    * the canvas value for light cards inside them). Each equals --color-action
    * when the raw colour already passes. */
-  --color-action-text: #0b7a75;
-  --color-action-text-canvas: #0b7a75;
-  --color-action-text-tint: #00726d;
-  --color-action-on-primary: #4eaba5;
-  --color-action-on-ink: #2f8f8a;
-  --color-primary-hex: #5f1d33;
-  --color-near-black: #241519;
-  --color-near-white: #fcf8f6;
-  --color-complementary: #a8d5cf;
+  --color-action-text: #a85a00;
+  --color-action-text-canvas: #a85a00;
+  --color-action-text-tint: #9c5300;
+  --color-action-on-primary: #de8b46;
+  --color-action-on-ink: #bf6f26;
+  --color-primary-hex: #572347;
+  --color-near-black: #241618;
+  --color-near-white: #fffbf6;
+  --color-complementary: #f4d98c;
 
   /* Footer surface — intentionally dark in BOTH light and dark mode, so the
    * footer stays a consistent dark anchor instead of inverting under the
    * .dark override below. */
-  --color-footer: #241519;
-  --color-footer-foreground: #fcf8f6;
+  --color-footer: #241618;
+  --color-footer-foreground: #fffbf6;
 
   /* Ink section surface — optional dark section rhythm (design.json darkSections). */
-  --color-ink: #2b1219;
-  --color-ink-foreground: #fcf8f6;
+  --color-ink: #29141f;
+  --color-ink-foreground: #fffbf6;
 
   /* Spacing scale — exposed under a c5-prefixed namespace to avoid
    * colliding with Tailwind v4's --spacing-* namespace, which feeds
@@ -63,26 +63,26 @@
   --c5-space-xs: 4px;
   --c5-space-sm: 8px;
   --c5-space-md: 16px;
-  --c5-space-lg: 24px;
-  --c5-space-xl: 48px;
-  --c5-space-2xl: 96px;
+  --c5-space-lg: 28px;
+  --c5-space-xl: 56px;
+  --c5-space-2xl: 104px;
 
   /* Radius (from design.json) */
   --radius-none: 0px;
-  --radius-sm: 2px;
-  --radius-md: 4px;
-  --radius-lg: 6px;
-  --radius-pill: 4px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
   --radius: var(--radius-lg);
 
   /* Elevation — brand-tinted shadows (derived from the primary colour). These
    * override Tailwind's default shadow-sm/md/lg utilities AND expose a
    * shadow-card / shadow-card-hover pair for the content block cards. */
-  --shadow-sm: 0 1px 2px 0 rgba(95, 29, 51, 0.06);
-  --shadow-md: 0 4px 12px -2px rgba(95, 29, 51, 0.10);
-  --shadow-lg: 0 12px 24px -6px rgba(95, 29, 51, 0.16);
-  --shadow-card: 0 2px 8px rgba(95, 29, 51, 0.08);
-  --shadow-card-hover: 0 8px 20px -4px rgba(95, 29, 51, 0.16);
+  --shadow-sm: 0 1px 2px 0 rgba(87, 35, 71, 0.06);
+  --shadow-md: 0 4px 12px -2px rgba(87, 35, 71, 0.10);
+  --shadow-lg: 0 12px 24px -6px rgba(87, 35, 71, 0.16);
+  --shadow-card: 0 2px 8px rgba(87, 35, 71, 0.08);
+  --shadow-card-hover: 0 8px 20px -4px rgba(87, 35, 71, 0.16);
 
   /* Font family CSS vars — next/font sets these at runtime via className,
    * but we expose semantic names here so components can reference them */
@@ -92,69 +92,69 @@
 
 :root {
   /* Duplicate in :root for shadcn components that read vars directly */
-  --color-primary: hsl(340 53% 24%);
-  --color-primary-foreground: hsl(20 50% 98%);
-  --color-secondary: hsl(9 39% 93%);
-  --color-secondary-foreground: hsl(344 26% 11%);
-  --color-accent: hsl(172 35% 75%);
-  --color-accent-foreground: hsl(344 26% 11%);
-  --color-background: hsl(20 50% 98%);
-  --color-foreground: hsl(344 26% 11%);
-  --color-muted: hsl(18 52% 95%);
-  --color-muted-foreground: hsl(344 26% 40%);
-  --color-card: hsl(20 50% 98%);
-  --color-card-foreground: hsl(344 26% 11%);
-  --color-popover: hsl(20 50% 98%);
-  --color-popover-foreground: hsl(344 26% 11%);
-  --color-border: hsl(19 49% 90%);
-  --color-input: hsl(19 49% 90%);
-  --color-ring: hsl(177 83% 26%);
+  --color-primary: hsl(318 43% 24%);
+  --color-primary-foreground: hsl(33 100% 98%);
+  --color-secondary: hsl(14 39% 94%);
+  --color-secondary-foreground: hsl(351 24% 11%);
+  --color-accent: hsl(44 83% 75%);
+  --color-accent-foreground: hsl(351 24% 11%);
+  --color-background: hsl(33 100% 98%);
+  --color-foreground: hsl(351 24% 11%);
+  --color-muted: hsl(35 100% 95%);
+  --color-muted-foreground: hsl(352 25% 40%);
+  --color-card: hsl(33 100% 98%);
+  --color-card-foreground: hsl(351 24% 11%);
+  --color-popover: hsl(33 100% 98%);
+  --color-popover-foreground: hsl(351 24% 11%);
+  --color-border: hsl(33 100% 90%);
+  --color-input: hsl(33 100% 90%);
+  --color-ring: hsl(32 100% 33%);
   --color-destructive: hsl(0 84% 60%);
-  --color-destructive-foreground: hsl(20 50% 98%);
+  --color-destructive-foreground: hsl(33 100% 98%);
 
   /* Custom brand tokens */
-  --color-action: #0b7a75;
-  --color-action-foreground: #fcf8f6;
+  --color-action: #a85a00;
+  --color-action-foreground: #fffbf6;
   /* Action colour for SMALL text, AA-corrected (lightness only) against the
    * rendered surfaces it sits on: -text on the canvas (background, muted,
    * card), -text-tint on the 10-15% action-tint badges, -on-primary / -on-ink
    * in those sections (globals.css re-scopes -text there; -text-canvas keeps
    * the canvas value for light cards inside them). Each equals --color-action
    * when the raw colour already passes. */
-  --color-action-text: #0b7a75;
-  --color-action-text-canvas: #0b7a75;
-  --color-action-text-tint: #00726d;
-  --color-action-on-primary: #4eaba5;
-  --color-action-on-ink: #2f8f8a;
-  --color-primary-hex: #5f1d33;
-  --color-near-black: #241519;
-  --color-near-white: #fcf8f6;
-  --color-complementary: #a8d5cf;
+  --color-action-text: #a85a00;
+  --color-action-text-canvas: #a85a00;
+  --color-action-text-tint: #9c5300;
+  --color-action-on-primary: #de8b46;
+  --color-action-on-ink: #bf6f26;
+  --color-primary-hex: #572347;
+  --color-near-black: #241618;
+  --color-near-white: #fffbf6;
+  --color-complementary: #f4d98c;
 
   /* Footer surface — intentionally dark in BOTH light and dark mode, so the
    * footer stays a consistent dark anchor instead of inverting under the
    * .dark override below. */
-  --color-footer: #241519;
-  --color-footer-foreground: #fcf8f6;
+  --color-footer: #241618;
+  --color-footer-foreground: #fffbf6;
 
   /* Ink section surface — optional dark section rhythm (design.json darkSections). */
-  --color-ink: #2b1219;
-  --color-ink-foreground: #fcf8f6;
+  --color-ink: #29141f;
+  --color-ink-foreground: #fffbf6;
 
   /* Spacing scale (c5-prefixed to avoid Tailwind --spacing-* collision) */
   --c5-space-xs: 4px;
   --c5-space-sm: 8px;
   --c5-space-md: 16px;
-  --c5-space-lg: 24px;
-  --c5-space-xl: 48px;
-  --c5-space-2xl: 96px;
+  --c5-space-lg: 28px;
+  --c5-space-xl: 56px;
+  --c5-space-2xl: 104px;
 
   /* Radius */
   --radius-none: 0px;
-  --radius-sm: 2px;
-  --radius-md: 4px;
-  --radius-lg: 6px;
-  --radius-pill: 4px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
   --radius: var(--radius-lg);
 
   /* Font family */
@@ -170,18 +170,18 @@
  * and the footer are intentionally left untouched so colored heros, buttons,
  * and CTAs render identically and stay on-brand. */
 .dark {
-  --color-background: hsl(345 26% 9%);
-  --color-foreground: hsl(20 51% 92%);
-  --color-card: hsl(343 27% 13%);
-  --color-card-foreground: hsl(20 51% 92%);
-  --color-popover: hsl(343 27% 13%);
-  --color-popover-foreground: hsl(20 51% 92%);
-  --color-muted: hsl(344 26% 17%);
-  --color-muted-foreground: hsl(20 50% 60%);
-  --color-border: hsl(343 26% 24%);
-  --color-input: hsl(343 26% 24%);
+  --color-background: hsl(349 24% 9%);
+  --color-foreground: hsl(34 100% 92%);
+  --color-card: hsl(353 24% 13%);
+  --color-card-foreground: hsl(34 100% 92%);
+  --color-popover: hsl(353 24% 13%);
+  --color-popover-foreground: hsl(34 100% 92%);
+  --color-muted: hsl(351 24% 17%);
+  --color-muted-foreground: hsl(33 100% 60%);
+  --color-border: hsl(350 25% 24%);
+  --color-input: hsl(350 25% 24%);
   /* Small action text re-corrected for the dark neutral surfaces. */
-  --color-action-text: #3c9b95;
-  --color-action-text-canvas: #3c9b95;
-  --color-action-text-tint: #3c9b95;
+  --color-action-text: #cb7a33;
+  --color-action-text-canvas: #cb7a33;
+  --color-action-text-tint: #cd7c35;
 }

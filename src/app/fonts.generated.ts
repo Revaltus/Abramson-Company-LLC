@@ -3,25 +3,25 @@
 // The Revaltus platform rewrites it when the site fonts change (Design Studio / Theme Studio).
 
 import type { CSSProperties } from 'react'
-import { Libre_Franklin, Source_Serif_4, Playfair_Display, Geist_Mono } from 'next/font/google'
+import { DM_Sans, Nunito_Sans, DM_Serif_Display, Geist_Mono } from 'next/font/google'
 
-const font0 = Libre_Franklin({
+const font0 = DM_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-heading-loaded',
   display: 'swap',
 })
 
-const font1 = Source_Serif_4({
+const font1 = Nunito_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-body-loaded',
   display: 'swap',
 })
 
-const font2 = Playfair_Display({
+const font2 = DM_Serif_Display({
   subsets: ['latin'],
-  weight: ['400', '500'],
+  weight: ['400'],
   style: ['normal', 'italic'],
   variable: '--font-accent-loaded',
   display: 'swap',
