@@ -1,33 +1,37 @@
 {
   "typography": {
-    "headingFont": "DM Sans",
-    "bodyFont": "Nunito Sans",
-    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Nunito+Sans:wght@400;500;700&family=DM+Serif+Display:wght@400;500;700&display=swap",
-    "accentFont": "DM Serif Display"
+    "headingFont": "Plus Jakarta Sans",
+    "bodyFont": "Source Sans 3",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700&family=Source+Sans+3:wght@400;500;700&family=Fraunces:wght@400;500;700&display=swap",
+    "accentFont": "Fraunces"
   },
-  "roundness": "pill",
-  "density": "balanced",
-  "visualFeel": "modern",
+  "roundness": "soft",
+  "density": "airy",
+  "visualFeel": "editorial",
   "spacing": {
     "xs": "4px",
     "sm": "8px",
     "md": "16px",
     "lg": "28px",
-    "xl": "56px",
-    "2xl": "104px"
+    "xl": "64px",
+    "2xl": "120px"
   },
   "radius": {
     "none": "0px",
-    "sm": "8px",
-    "md": "14px",
-    "lg": "24px",
+    "sm": "6px",
+    "md": "10px",
+    "lg": "20px",
     "pill": "999px"
   },
   "darkSections": true,
   "style": {
-    "cards": "elevated",
-    "buttons": "pill",
-    "sectionRhythm": "compact",
-    "accentUsage": "subtle"
+    "cards": "outlined",
+    "sectionRhythm": "generous",
+    "accentUsage": "underline",
+    "imageTreatment": "rounded"
+  },
+  "layout": {
+    "faq": "split",
+    "testimonials": "featured"
   }
 }
